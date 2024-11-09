@@ -1,0 +1,7 @@
+# requirements for the project
+ipykernel
+jupyterlab
+matplotlib
+numpy
+matplotlib
+pandas

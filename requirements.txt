@@ -1,0 +1,6 @@
+# requirements for the project
+
+jupyterlab
+matplotlib
+numpy
+matplotlib

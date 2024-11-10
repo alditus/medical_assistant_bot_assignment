@@ -8,3 +8,4 @@ pandas
 nltk
 wordcloud
 scikit-learn
+transformers

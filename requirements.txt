@@ -5,3 +5,7 @@ matplotlib
 numpy
 matplotlib
 pandas
+nltk
+wordcloud
+scikit-learn
+transformers

@@ -9,3 +9,8 @@ nltk
 wordcloud
 scikit-learn
 transformers
+datasets
+torch
+torchvision
+torchaudio
+langchain

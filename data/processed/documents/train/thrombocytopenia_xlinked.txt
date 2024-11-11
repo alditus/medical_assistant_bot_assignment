@@ -1,0 +1,188 @@
+ The Human Phenotype Ontology provides the following list of signs and symptoms for X-linked thrombocytopenia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the musculature - Bruising susceptibility - Congenital thrombocytopenia - Decreased mean platelet volume - Eczema - Epistaxis - Increased IgA level - Increased IgE level - Intermittent thrombocytopenia - Joint hemorrhage - Petechiae - X-linked recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+In most cases, an autoimmune response is thought to cause immune thrombocytopenia (ITP).
+                
+Normally, your immune system helps your body fight off infections and diseases. In ITP, however, your immune system attacks and destroys your body's platelets by mistake. Why this happens isn't known.
+                
+In some people, ITP may be linked to viral or bacterial infections, such as HIV, hepatitis C, or H. pylori.
+                
+Children who have acute (short-term) ITP often have had recent viral infections. These infections may "trigger" or set off the immune reaction that leads to ITP.
+Immune thrombocytopenia (ITP) is a fairly common blood disorder. Both children and adults can develop ITP.
+                
+Children usually have the acute (short-term) type of ITP. Acute ITP often develops after a viral infection.
+                
+Adults tend to have the chronic (long-lasting) type of ITP. Women are two to three times more likely than men to develop chronic ITP.
+                
+The number of cases of ITP is rising because routine blood tests that can detect a low platelet count are being done more often.
+                
+ITP can't be passed from one person to another.
+Immune thrombocytopenia (ITP) may not cause any signs or symptoms. However, ITP can cause bleeding inside the body (internal bleeding) or underneath or from the skin (external bleeding). Signs of bleeding may include:
+                
+Bruising or purplish areas on the skin or mucous membranes (such as in the mouth). These bruises are called purpura. They're caused by bleeding under the skin, and they may occur for no known reason.
+                
+Pinpoint red spots on the skin called petechiae. These spots often are found in groups and may look like a rash. Bleeding under the skin causes petechiae.
+                
+A collection of clotted or partially clotted blood under the skin that looks or feels like a lump. This is called a hematoma.
+                
+Nosebleeds or bleeding from the gums (for example, during dental work).
+                
+Blood in the urine or stool (bowel movement).
+                
+Any kind of bleeding that's hard to stop could be a sign of ITP. This includes menstrual bleeding that's heavier than normal. Bleeding in the brain is rare, and its symptoms may vary.
+                
+A low platelet count doesn't directly cause pain, problems concentrating, or other symptoms. However, a low platelet count might be associated with fatigue (tiredness).
+Your doctor will diagnose immune thrombocytopenia (ITP) based on your medical history, a physical exam, and test results.
+                
+Your doctor will want to make sure that your low platelet count isn't due to another condition (such as an infection) or medicines you're taking (such as chemotherapy medicines or aspirin).
+                
+Medical History
+                
+Your doctor may ask about:
+                
+Your signs and symptoms of bleeding and any other signs or symptoms you're having
+                
+Whether you have illnesses that could lower your platelet count or cause bleeding
+                
+Medicines or any over-the-counter supplements or remedies you take that could cause bleeding or lower your platelet count
+                
+Physical Exam
+                
+During a physical exam, your doctor will look for signs of bleeding and infection. For example, your doctor may look for purplish areas on the skin or mucous membranes and pinpoint red spots on the skin. These are signs of bleeding under the skin.
+                
+Diagnostic Tests
+                
+You'll likely have blood tests to check your platelet count. These tests usually include:
+                
+A complete blood count. This test checks the number of red blood cells, white blood cells, and platelets in your blood. In ITP, the red and white blood cell counts are normal, but the platelet count is low.
+                
+A blood smear. For this test, some of your blood is put on a slide. A microscope is used to look at your platelets and other blood cells.
+                
+You also may have a blood test to check for the antibodies (proteins) that attack platelets.
+                
+If blood tests show that your platelet count is low, your doctor may recommend more tests to confirm a diagnosis of ITP. For example, bone marrow tests can show whether your bone marrow is making enough platelets.
+                
+If you're at risk for HIV, hepatitis C, or H. pylori, your doctor may screen you for these infections, which might be linked to ITP.
+                
+Some people who have mild ITP have few or no signs of bleeding. They may be diagnosed only if a blood test done for another reason shows that they have low platelet counts.
+You can't prevent immune thrombocytopenia (ITP), but you can prevent its complications.
+                
+Talk with your doctor about which medicines are safe for you. Your doctor may advise you to avoid medicines that can affect your platelets and increase your risk of bleeding. Examples of such medicines include aspirin and ibuprofen.
+                
+Protect yourself from injuries that can cause bruising or bleeding.
+                
+Seek treatment right away if you develop any infections. Report any symptoms of infection, such as a fever, to your doctor. This is very important for people who have ITP and have had their spleens removed.
+Thrombocytopenia (THROM-bo-si-to-PE-ne-ah) is a condition in which your blood has a lower than normal number of blood cell fragments called platelets (PLATE-lets).
+                
+Platelets are made in your bone marrow along with other kinds of blood cells. They travel through your blood vessels and stick together (clot) to stop any bleeding that may happen if a blood vessel is damaged. Platelets also are called thrombocytes (THROM-bo-sites) because a clot also is called a thrombus.
+                
+Overview
+                
+When your blood has too few platelets, mild to serious bleeding can occur. Bleeding can occur inside your body (internal bleeding) or underneath your skin or from the surface of your skin (external bleeding).
+                
+A normal platelet count in adults ranges from 150,000 to 450,000 platelets per microliter of blood. A platelet count of less than 150,000 platelets per microliter is lower than normal. If your blood platelet count falls below normal, you have thrombocytopenia.
+                
+However, the risk for serious bleeding doesn't occur until the count becomes very lowless than 10,000 or 20,000 platelets per microliter. Mild bleeding sometimes occurs when the count is less than 50,000 platelets per microliter.
+                
+Many factors can cause a low platelet count, such as:
+                
+The body's bone marrow doesn't make enough platelets.
+                
+The bone marrow makes enough platelets, but the body destroys them or uses them up.
+                
+The spleen holds on to too many platelets. The spleen is an organ that normally stores about one-third of the body's platelets. It also helps your body fight infection and remove unwanted cell material.
+                
+A combination of the above factors.
+                
+How long thrombocytopenia lasts depends on its cause. It can last from days to years.
+                
+The treatment for this condition also depends on its cause and severity. Mild thrombocytopenia often doesn't require treatment. If the condition causes or puts you at risk for serious bleeding, you may need medicines or blood or platelet transfusions. Rarely, the spleen may need to be removed.
+                
+Outlook
+                
+Thrombocytopenia can be fatal, especially if the bleeding is severe or occurs in the brain. However, the overall outlook for people who have the condition is good, especially if the cause of the low platelet count is found and treated.
+People who are at highest risk for thrombocytopenia are those affected by one of the conditions or factors discussed in "What Causes Thrombocytopenia?" This includes people who:
+                
+Have certain types of cancer, aplastic anemia, or autoimmune diseases
+                
+Are exposed to certain toxic chemicals
+                
+Have a reaction to certain medicines
+                
+Have certain viruses
+                
+Have certain genetic conditions
+                
+People at highest risk also include heavy alcohol drinkers and pregnant women.
+Mild to serious bleeding causes the main signs and symptoms of thrombocytopenia. Bleeding can occur inside your body (internal bleeding) or underneath your skin or from the surface of your skin (external bleeding).
+                
+Signs and symptoms can appear suddenly or over time. Mild thrombocytopenia often has no signs or symptoms. Many times, it's found during a routine blood test.
+                
+Check with your doctor if you have any signs of bleeding. Severe thrombocytopenia can cause bleeding in almost any part of the body. Bleeding can lead to a medical emergency and should be treated right away.
+                
+External bleeding usually is the first sign of a low platelet count. External bleeding may cause purpura (PURR-purr-ah) or petechiae (peh-TEE-key-ay). Purpura are purple, brown, and red bruises. This bruising may happen easily and often. Petechiae are small red or purple dots on your skin.
+                
+Purpura and Petechiae
+                
+
+                
+Other signs of external bleeding include:
+                
+Prolonged bleeding, even from minor cuts
+                
+Bleeding or oozing from the mouth or nose, especially nosebleeds or bleeding from brushing your teeth
+                
+Abnormal vaginal bleeding (especially heavy menstrual flow)
+                
+A lot of bleeding after surgery or dental work also might suggest a bleeding problem.
+                
+Heavy bleeding into the intestines or the brain (internal bleeding) is serious and can be fatal. Signs and symptoms include:
+                
+Blood in the urine or stool or bleeding from the rectum. Blood in the stool can appear as red blood or as a dark, tarry color. (Taking iron supplements also can cause dark, tarry stools.)
+                
+Headaches and other neurological symptoms. These problems are very rare, but you should discuss them with your doctor.
+Treatment for thrombocytopenia depends on its cause and severity. The main goal of treatment is to prevent death and disability caused by bleeding.
+                
+If your condition is mild, you may not need treatment. A fully normal platelet count isn't necessary to prevent bleeding, even with severe cuts or accidents.
+                
+Thrombocytopenia often improves when its underlying cause is treated. People who inherit the condition usually don't need treatment.
+                
+If a reaction to a medicine is causing a low platelet count, your doctor may prescribe another medicine. Most people recover after the initial medicine has been stopped. For heparin-induced thrombocytopenia (HIT), stopping the heparin isn't enough. Often, you'll need another medicine to prevent blood clotting.
+                
+If your immune system is causing a low platelet count, your doctor may prescribe medicines to suppress the immune system.
+                
+Severe Thrombocytopenia
+                
+If your thrombocytopenia is severe, your doctor may prescribe treatments such as medicines, blood or platelet transfusions, or splenectomy.
+                
+Medicines
+                
+Your doctor may prescribe corticosteroids, also called steroids for short. Steroids may slow platelet destruction. These medicines can be given through a vein or by mouth. One example of this type of medicine is prednisone.
+                
+The steroids used to treat thrombocytopenia are different from illegal steroids taken by some athletes to enhance performance.
+                
+Your doctor may prescribe immunoglobulins or medicines like rituximab to block your immune system. These medicines are given through a vein. He or she also may prescribe other medicines, such as eltrombopag or romiplostim, to help your body make more platelets. The former comes as a tablet to take by mouth and the latter is given as an injection under the skin.
+                
+Blood or Platelet Transfusions
+                
+Blood or platelet transfusions are used to treat people who have active bleeding or are at a high risk of bleeding. During this procedure, a needle is used to insert an intravenous (IV) line into one of your blood vessels. Through this line, you receive healthy blood or platelets.
+                
+For more information about this procedure, go to the Health Topics Blood Transfusion article.
+                
+Splenectomy
+                
+A splenectomy is surgery to remove the spleen. This surgery may be used if treatment with medicines doesn't work. This surgery mostly is used for adults who have immune thrombocytopenia (ITP). However, medicines often are the first course of treatment.
+Whether you can prevent thrombocytopenia depends on its specific cause. Usually the condition can't be prevented. However, you can take steps to prevent health problems associated with thrombocytopenia. For example:
+                
+Avoid heavy drinking. Alcohol slows the production of platelets.
+                
+Try to avoid contact with toxic chemicals. Chemicals such as pesticides, arsenic, and benzene can slow the production of platelets.
+                
+Avoid medicines that you know have decreased your platelet count in the past.
+                
+Be aware of medicines that may affect your platelets and raise your risk of bleeding. Two examples of such medicines are aspirin and ibuprofen. These medicines may thin your blood too much.
+                
+Talk with your doctor about getting vaccinated for viruses that can affect your platelets. You may need vaccines for mumps, measles, rubella, and chickenpox. You may want to have your child vaccinated for these viruses as well. Talk with your child's doctor about these vaccines.
+X-linked thrombocytopenia is a bleeding disorder that primarily affects males. This condition is characterized by a blood cell abnormality called thrombocytopenia, which is a shortage in the number of cells involved in clotting (platelets). Affected individuals often have abnormally small platelets as well, a condition called microthrombocytopenia. X-linked thrombocytopenia can cause individuals to bruise easily or have episodes of prolonged bleeding following minor trauma or even in the absence of injury (spontaneous bleeding). Some people with this condition experience spontaneous bleeding in the brain (cerebral hemorrhage), which can cause brain damage that can be life-threatening.  Some people with X-linked thrombocytopenia also have patches of red, irritated skin (eczema) or an increased susceptibility to infections. In severe cases, additional features can develop, such as cancer or autoimmune disorders, which occur when the immune system malfunctions and attacks the body's own tissues and organs. It is unclear, however, if people with these features have X-linked thrombocytopenia or a more severe disorder with similar signs and symptoms called Wiskott-Aldrich syndrome.  Some people have a mild form of the disorder called intermittent thrombocytopenia. These individuals have normal platelet production at times with episodes of thrombocytopenia.
+The estimated incidence of X-linked thrombocytopenia is between 1 and 10 per million males worldwide; this condition is rarer among females.
+Mutations in the WAS gene cause X-linked thrombocytopenia. The WAS gene provides instructions for making a protein called WASP. This protein is found in all blood cells. WASP is involved in relaying signals from the surface of blood cells to the actin cytoskeleton, which is a network of fibers that make up the cell's structural framework. WASP signaling activates the cell when it is needed and triggers its movement and attachment to other cells and tissues (adhesion). In white blood cells, which protect the body from infection, this signaling allows the actin cytoskeleton to establish the interaction between cells and the foreign invaders that they target (immune synapse).  WAS gene mutations that cause X-linked thrombocytopenia typically lead to the production of an altered protein. The altered WASP has reduced function and cannot efficiently relay signals from the cell membrane to the actin cytoskeleton. In people with X-linked thrombocytopenia, these signaling problems primarily affect platelets, impairing their development. In some cases, white blood cells are affected. When WASP function is impaired in white blood cells, they are less able to respond to foreign invaders and immune problems such as infections, eczema, and autoimmune disorders can occur.
+This condition is inherited in an X-linked pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell may or may not cause the disorder. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. In most cases of X-linked inheritance, males experience more severe symptoms of the disorder than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+These resources address the diagnosis or management of X-linked thrombocytopenia:  - Gene Review: Gene Review: WAS-Related Disorders  - Genetic Testing Registry: Thrombocytopenia, X-linked  - National Heart Lung and Blood Institute: How is Thrombocytopenia Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

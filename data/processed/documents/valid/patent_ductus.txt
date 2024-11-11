@@ -1,0 +1,82 @@
+ The Human Phenotype Ontology provides the following list of signs and symptoms for Patent ductus venosus. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Congenital portosystemic venous shunt - Decreased liver function - Hepatic encephalopathy - Hepatic steatosis - Hyperammonemia - Hypergalactosemia - Persistent patent ductus venosus - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+Patent ductus arteriosus (PDA) is a heart problem that occurs soon after birth in some babies. In PDA, abnormal blood flow occurs between two of the major arteries connected to the heart.
+                
+Before birth, the two major arteriesthe aorta and the pulmonary (PULL-mun-ary) arteryare connected by a blood vessel called the ductus arteriosus. This vessel is an essential part of fetal blood circulation.
+                
+Within minutes or up to a few days after birth, the vessel is supposed to close as part of the normal changes occurring in the baby's circulation.
+                
+In some babies, however, the ductus arteriosus remains open (patent). This opening allows oxygen-rich blood from the aorta to mix with oxygen-poor blood from the pulmonary artery. This can put strain on the heart and increase blood pressure in the lung arteries.
+                
+Normal Heart and Heart With Patent Ductus Arteriosus
+                
+
+                
+Go to the "How the Heart Works" section of this article for more details about how a normal heart works compared with a heart that has PDA.
+                
+Overview
+                
+PDA is a type of congenital (kon-JEN-ih-tal) heart defect. A congenital heart defect is any type of heart problem that's present at birth.
+                
+If your baby has a PDA but an otherwise normal heart, the PDA may shrink and go away. However, some children need treatment to close their PDAs.
+                
+Some children who have PDAs are given medicine to keep the ductus arteriosus open. For example, this may be done if a child is born with another heart defect that decreases blood flow to the lungs or the rest of the body.
+                
+Keeping the PDA open helps maintain blood flow and oxygen levels until doctors can do surgery to correct the other heart defect.
+                
+Outlook
+                
+PDA is a fairly common congenital heart defect in the United States. Although the condition can affect full-term infants, it's more common in premature infants.
+                
+On average, PDA occurs in about 8 out of every 1,000 premature babies, compared with 2out of every 1,000 full-term babies. Premature babies also are more vulnerable to the effects of PDA.
+                
+PDA is twice as common in girls as it is in boys.
+                
+Doctors treat the condition with medicines, catheter-based procedures, and surgery. Most children who have PDAs live healthy, normal lives after treatment.
+If your child has patent ductus arteriosus (PDA), you may think you did something wrong during your pregnancy to cause the problem. However, the cause of patent ductus arteriosus isn't known.
+                
+Genetics may play a role in causing the condition. A defect in one or more genes might prevent the ductus arteriosus from closing after birth.
+Patent ductus arteriosus (PDA) is a relatively common congenital heart defect in the United States.
+                
+The condition occurs more often in premature infants (on average, occurring in about 8 of every 1,000 births). However, PDA also occurs in full-term infants (on average, occurring in about 2 of every 1,000 births).
+                
+PDA also is more common in:
+                
+Infants who have genetic conditions such as Down syndrome
+                
+Infants whose mothers had German measles (rubella) during pregnancy
+                
+PDA is twice as common in girls as it is in boys.
+A heart murmur may be the only sign that a baby has patent ductus arteriosus (PDA). A heart murmur is an extra or unusual sound heard during the heartbeat. Heart murmurs also have other causes besides PDA, and most murmurs are harmless.
+                
+Some infants may develop signs or symptoms of volume overload on the heart and excess blood flow in the lungs. Signs and symptoms may include:
+                
+Fast breathing, working hard to breathe, or shortness of breath. Premature infants may need increased oxygen or help breathing from a ventilator.
+                
+Poor feeding and poor weight gain.
+                
+Tiring easily.
+                
+Sweating with exertion, such as while feeding.
+In full-term infants, patent ductus arteriosus (PDA) usually is first suspected when the baby's doctor hears a heart murmur during a regular checkup.
+                
+A heart murmur is an extra or unusual sound heard during the heartbeat. Heart murmurs also have other causes besides PDA, and most murmurs are harmless.
+                
+If a PDA is large, the infant also may develop symptoms of volume overload and increased blood flow to the lungs. If a PDA is small, it may not be diagnosed until later in childhood.
+                
+If your child's doctor thinks your child has PDA, he or she may refer you to a pediatric cardiologist. This is a doctor who specializes in diagnosing and treating heart problems in children.
+                
+Premature babies who have PDA may not have the same signs as full-term babies, such as heart murmurs. Doctors may suspect PDA in premature babies who develop breathing problems soon after birth. Tests can help confirm a diagnosis.
+                
+Diagnostic Tests
+                
+Echocardiography
+                
+Echocardiography (echo) is a painless test that uses sound waves to create a moving picture of your baby's heart. During echo, the sound waves bounce off your childs heart. A computer converts the sound waves into pictures of the hearts structures.
+                
+The test allows the doctor to clearly see any problems with the way the heart is formed or the way it's working. Echo is the most important test available to your baby's cardiologist to both diagnose a heart problem and follow the problem over time.
+                
+In babies who have PDA, echo shows how big the PDA is and how well the heart is responding to it. When medical treatments are used to try to close a PDA, echo is used to see how well the treatments are working.
+                
+EKG (Electrocardiogram)
+                
+An EKG is a simple, painless test that records the heart's electrical activity. For babies who have PDA, an EKG can show whether the heart is enlarged. The test also can show other subtle changes that can suggest the presence of a PDA.

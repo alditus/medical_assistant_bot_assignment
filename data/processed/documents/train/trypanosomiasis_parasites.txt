@@ -1,0 +1,55 @@
+Chagas disease is caused by the parasite Trypanosoma cruzi, which is transmitted to animals and people by insect vectors that are found only in the Americas (mainly, in rural areas of Latin America where poverty is widespread). Chagas disease (T. cruzi infection) is also referred to as American trypanosomiasis.
+It is estimated that as many as 8 million people in Mexico, Central America, and South America have Chagas disease, most of whom do not know they are infected. If untreated, infection is lifelong and can be life threatening.
+The impact of Chagas disease is not limited to the rural areas in Latin America in which vectorborne transmission occurs. Large-scale population movements from rural to urban areas of Latin America and to other regions of the world have increased the geographic distribution and changed the epidemiology of Chagas disease. In the United States and in other regions where Chagas disease is now found but is not endemic, control strategies should focus on preventing transmission from blood transfusion, organ transplantation, and mother-to-baby (congenital transmission).
+Chagas disease, or American trypanosomiasis, is caused by the parasite Trypanosoma cruzi. Infection is most commonly acquired through contact with the feces of an infected triatomine bug (or "kissing bug"), a blood-sucking insect that feeds on humans and animals.
+    
+Infection can also occur from:
+    
+     - mother-to-baby (congenital),
+     - contaminated blood products (transfusions),
+     - an organ transplanted from an infected donor,
+     - laboratory accident, or
+     - contaminated food or drink (rare)
+    
+    
+Chagas disease is endemic throughout much of Mexico, Central America, and South America where an estimated 8 million people are infected. The triatomine bug thrives under poor housing conditions (for example, mud walls, thatched roofs), so in endemic countries, people living in rural areas are at greatest risk for acquiring infection. Public health efforts aimed at preventing transmission have decreased the number of newly infected people and completely halted vectorborne transmission in some areas. Infection acquired from blood products, organ transplantation, or congenital transmission continues to pose a threat.
+    
+By applying published seroprevalence figures to immigrant populations, CDC estimates that more than 300,000 persons with Trypanosoma cruzi infection live in the United States. Most people with Chagas disease in the United States acquired their infections in endemic countries. Although there are triatomine bugs in the U.S. , only rare vectorborne cases of Chagas disease have been documented.
+    
+More on: Triatomine Bugs
+The diagnosis of Chagas disease can be made by observation of the parasite in a blood smear by microscopic examination. A thick and thin blood smear are made and stained for visualization of parasites. However, a blood smear works well only in the acute phase of infection when parasites are seen circulating in blood.
+    
+Diagnosis of chronic Chagas disease is made after consideration of the patient's clinical findings, as well as by the likelihood of being infected, such as having lived in an endemic country. Diagnosis is generally made by testing with at least two different serologic tests.
+Treatment for Chagas disease is recommended for all people diagnosed with an acute infection, congenital infection, and for those with suppressed immune systems, and for all children with chronic infection. Adults with chronic infection may also benefit from treatment.
+    
+For cardiac or gastrointestinal problems resulting from Chagas disease, symptomatic treatment may be helpful. Patients should consult with their primary health care provider. Some patients may be referred to a specialist, such as a cardiologist, gastroenterologist, or infectious disease specialist.
+    
+In the U.S., medication for Chagas is available only through CDC. Your health care provider can talk with CDC staff about whether and how you should be treated.
+    
+More on: Resources for Health Professionals: Antiparasitic Treatment
+In endemic areas of Mexico, Central America, and South America improved housing and spraying insecticide inside housing to eliminate triatomine bugs has significantly decreased the spread of Chagas disease. Further, screening of blood donations for Chagas is another important public health tool in helping to prevent transfusion-acquired disease. Early detection and treatment of new cases, including mother-to-baby (congenital) cases, will also help reduce the burden of disease.
+    
+In the United States and in other regions where Chagas disease is now found but is not endemic, control strategies are focused on preventing transmission from blood transfusion, organ transplantation, and mother-to-baby.
+The diagnosis of African Trypanosomiasis is made through laboratory methods, because the clinical features of infection are not sufficiently specific. The diagnosis rests on finding the parasite in body fluid or tissue by microscopy. The parasite load in T. b. rhodesiense infection is substantially higher than the level in T. b. gambiense infection.
+    
+T. b. rhodesiense parasites can easily be found in blood. They can also be found in lymph node fluid or in fluid or biopsy of a chancre. Serologic testing is not widely available and is not used in the diagnosis, since microscopic detection of the parasite is straightforward.
+    
+The classic method for diagnosing T. b. gambiense infection is by microscopic examination of lymph node aspirate, usually from a posterior cervical node. It is often difficult to detect T. b. gambiense in blood. Concentration techniques and serial examinations are frequently needed. Serologic testing is available outside the U.S. for T. b. gambiense; however, it normally is used for screening purposes only and the definitive diagnosis rests on microscopic observation of the parasite.
+    
+All patients diagnosed with African trypanosomiasis must have their cerebrospinal fluid examined to determine whether there is involvement of the central nervous system, since the choice of treatment drug(s) will depend on the disease stage. The World Health Organization criteria for central nervous system involvement include increased protein in cerebrospinal fluid and a white cell count of more than 5. Trypanosomes can often be observed in cerebrospinal fluid in persons with second stage infection.
+    
+More on: Resources for Health Professionals: Diagnosis
+All persons diagnosed with African Trypanosomiasis should receive treatment. The specific drug and treatment course will depend on the type of infection (T. b. gambiense or T. b. rhodesiense) and the disease stage (i.e. whether the central nervous system has been invaded by the parasite). Pentamidine, which is the recommended drug for first stage T. b. gambiense infection, is widely available in the U.S. The other drugs (suramin, melarsoprol, eflornithine, and nifurtimox) used to treat African trypanosomiasis are available in the U.S. only from the CDC. Physicians can consult with CDC staff for advice on diagnosis and management and to obtain otherwise unavailable treatment drug.
+    
+There is no test of cure for African trypanosomiasis. After treatment patients need to have serial examinations of their cerebrospinal fluid for 2 years, so that relapse can be detected if it occurs.
+    
+More on: Resources for Health Professionals: Treatment
+There is no vaccine or drug for prophylaxis against African trypanosomiasis. Preventive measures are aimed at minimizing contact with tsetse flies. Local residents are usually aware of the areas that are heavily infested and they can provide advice about places to avoid. Other helpful measures include:
+    
+     - Wear long-sleeved shirts and pants of medium-weight material in neutral colors that blend with the background environment. Tsetse flies are attracted to bright or dark colors, and they can bite through lightweight clothing.
+     - Inspect vehicles before entering. The flies are attracted to the motion and dust from moving vehicles.
+     - Avoid bushes. The tsetse fly is less active during the hottest part of the day but will bite if disturbed.
+     - Use insect repellent. Permethrin-impregnated clothing and insect repellent have not been proved to be particularly effective against tsetse flies, but they will prevent other insect bites that can cause illness.
+    
+    
+Control of African trypanosomiasis rests on two strategies: reducing the disease reservoir and controlling the tsetse fly vector. Because humans are the significant disease reservoir for T. b. gambiense, the main control strategy for this subspecies is active case-finding through population screening, followed by treatment of the infected persons that are identified. Tsetse fly traps are sometimes used as an adjunct. Reducing the reservoir of infection is more difficult for T. b. rhodesiense, since there are a variety of animal hosts. Vector control is the primary strategy in use. This is usually done with traps or screens, in combination with insecticides and odors that attract the flies.

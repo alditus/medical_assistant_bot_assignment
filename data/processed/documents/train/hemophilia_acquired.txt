@@ -1,0 +1,109 @@
+Hemophilia is a rare disorder in which the blood does not clot normally. It is usually inherited. Hemophilia usually occurs in males.    If you have hemophilia, you have little or no clotting factor. Clotting factor is a protein needed for normal blood clotting. Without it, you may bleed for a long time after an injury or accident. You also may bleed into your knees, ankles, and elbows. Bleeding in the joints causes pain and, if not treated, can lead to arthritis. Bleeding in the brain, a very serious complication of hemophilia, requires emergency treatment.    The main symptoms of hemophilia are excessive bleeding and easy bruising. Blood tests can tell if you have it. The main treatment is injecting the missing clotting factor into the bloodstream. You may need it on a regular basis, or just when bleeding occurs.    NIH: National Heart, Lung, and Blood Institute
+Hemophilia B is a bleeding disorder that slows the blood clotting process. People with this disorder experience prolonged bleeding or oozing following an injury or surgery. In severe cases of hemophilia, heavy bleeding occurs after minor injury or even in the absence of injury. Serious complications can result from bleeding into the joints, muscles, brain, or other internal organs. Milder forms may not become apparent until abnormal bleeding occurs following surgery or a serious injury. People with an unusual form of hemophilia B, known as hemophilia B Leyden, experience episodes of excessive bleeding in childhood but have few bleeding problems after puberty. Hemophilia B is inherited in an X-linked recessive pattern and is caused by mutations in the F9 gene.
+ The Human Phenotype Ontology provides the following list of signs and symptoms for Hemophilia B. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal bleeding - Degenerative joint disease - Gastrointestinal hemorrhage - Joint hemorrhage - Persistent bleeding after trauma - Prolonged partial thromboplastin time - Prolonged whole-blood clotting time - Reduced factor IX activity - X-linked recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+Acquired hemophilia A is a bleeding disorder that interferes with the body's blood clotting process. Although the condition can affect people of all ages, it generally occurs in older people (the median age of diagnosis is between 60 and 67 years). Signs and symptoms include prolonged bleeding, frequent nosebleeds, bruising throughout the body, solid swellings of congealed blood (hematomas), hematuria, and gastrointestinal or urologic bleeding. Acquired hemophilia A occurs when the body's immune system attacks and disables a certain protein that helps the blood clot (called coagulation factor VIII). About half of the cases are associated with other conditions, such as pregnancy, autoimmune disease, cancer, skin diseases, or allergic reactions to medications. Treatment is aimed at controlling bleeding episodes and addressing the underlying cause of the condition.
+Acquired hemophilia is a bleeding disorder that interferes with the body's blood clotting process. Although the condition can affect people of all ages, it generally occurs in older people (the median age of diagnosis is between 60 and 67 years). Signs and symptoms include prolonged bleeding, frequent nosebleeds, bruising throughout the body, solid swellings of congealed blood (hematomas), hematuria, and gastrointestinal or urologic bleeding. Acquired hemophilia occurs when the body's immune system attacks and disables a certain protein that helps the blood clot. About half of the cases are associated with other conditions, such as pregnancy, autoimmune disease, cancer, skin diseases, or allergic reactions to medications. Treatment is aimed at controlling bleeding episodes and addressing the underlying cause of the condition.
+A defect in one of the genes that determines how the body makes blood clotting factor VIII or IX causes hemophilia. These genes are located on the X chromosomes (KRO-muh-somz).
+                
+Chromosomes come in pairs. Females have two X chromosomes, while males have one X and one Y chromosome. Only the X chromosome carries the genes related to clotting factors.
+                
+A male who has a hemophilia gene on his X chromosome will have hemophilia. When a female has a hemophilia gene on only one of her X chromosomes, she is a "hemophilia carrier and can pass the gene to her children. Sometimes carriers have low levels of clotting factor and have symptoms of hemophilia, including bleeding. Clotting factors are proteins in the blood that work together with platelets to stop or control bleeding.
+                
+Very rarely, a girl may be born with a very low clotting factor level and have a greater risk for bleeding, similar to boys who have hemophilia and very low levels of clotting factor. There are several hereditary and genetic causes of this much rarer form of hemophilia in females.
+                
+Some males who have the disorder are born to mothers who aren't carriers. In these cases, a mutation (random change) occurs in the gene as it is passed to the child.
+                
+Below are two examples of how the hemophilia gene is inherited.
+                
+Inheritance Pattern for HemophiliaExample 1
+                
+
+                
+Each daughter has a 50 percent chance of inheriting the hemophilia gene from her mother and being a carrier. Each son has a 50 percent chance of inheriting the hemophilia gene from his mother and having hemophilia.
+                
+Inheritance Pattern for HemophiliaExample 2
+                
+
+                
+Each daughter will inherit the hemophilia gene from her father and be a carrier. None of the sons will inherit the hemophilia gene from their father; thus, none will have hemophilia.
+The major signs and symptoms of hemophilia are excessive bleeding and easy bruising.
+                
+Excessive Bleeding
+                
+The extent of bleeding depends on how severe the hemophilia is.
+                
+Children who have mild hemophilia may not have signs unless they have excessive bleeding from a dental procedure, an accident, or surgery. Males who have severe hemophilia may bleed heavily after circumcision.
+                
+Bleeding can occur on the body's surface (external bleeding) or inside the body (internal bleeding).
+                
+Signs of external bleeding may include:
+                
+Bleeding in the mouth from a cut or bite or from cutting or losing a tooth
+                
+Nosebleeds for no obvious reason
+                
+Heavy bleeding from a minor cut
+                
+Bleeding from a cut that resumes after stopping for a short time
+                
+Signs of internal bleeding may include:
+                
+Blood in the urine (from bleeding in the kidneys or bladder)
+                
+Blood in the stool (from bleeding in the intestines or stomach)
+                
+Large bruises (from bleeding into the large muscles of the body)
+                
+Bleeding in the Joints
+                
+Bleeding in the knees, elbows, or other joints is another common form of internal bleeding in people who have hemophilia. This bleeding can occur without obvious injury.
+                
+At first, the bleeding causes tightness in the joint with no real pain or any visible signs of bleeding. The joint then becomes swollen, hot to touch, and painful to bend.
+                
+Swelling continues as bleeding continues. Eventually, movement in the joint is temporarily lost. Pain can be severe. Joint bleeding that isn't treated quickly can damage the joint.
+                
+Bleeding in the Brain
+                
+Internal bleeding in the brain is a very serious complication of hemophilia. It can happen after a simple bump on the head or a more serious injury. The signs and symptoms of bleeding in the brain include:
+                
+Long-lasting, painful headaches or neck pain or stiffness
+                
+Repeated vomiting
+                
+Sleepiness or changes in behavior
+                
+Sudden weakness or clumsiness of the arms or legs or problems walking
+                
+Double vision
+                
+Convulsions or seizures
+If you or your child appears to have a bleeding problem, your doctor will ask about your personal and family medical histories. This will reveal whether you or your family members, including women and girls, have bleeding problems. However, some people who have hemophilia have no recent family history of the disease.
+                
+You or your child also will likely have a physical exam and blood tests to diagnose hemophilia. Blood tests are used to find out:
+                
+How long it takes for your blood to clot
+                
+Whether your blood has low levels of any clotting factors
+                
+Whether any clotting factors are completely missing from your blood
+                
+The test results will show whether you have hemophilia, what type of hemophilia you have, and how severe it is.
+                
+Hemophilia A and B are classified as mild, moderate, or severe, depending on the amount of clotting factor VIII or IX in the blood.
+                
+The severity of symptoms can overlap between the categories. For example, some people who have mild hemophilia may have bleeding problems almost as often or as severe as some people who have moderate hemophilia.
+                
+Severe hemophilia can cause serious bleeding problems in babies. Thus, children who have severe hemophilia usually are diagnosed during the first year of life. People who have milder forms of hemophilia may not be diagnosed until they're adults.
+                
+The bleeding problems of hemophilia A and hemophilia B are the same. Only special blood tests can tell which type of the disorder you or your child has. Knowing which type is important because the treatments are different.
+                
+Pregnant women who are known hemophilia carriers can have the disorder diagnosed in their unborn babies as early as 12 weeks into their pregnancies.
+                
+Women who are hemophilia carriers also can have "preimplantation diagnosis" to have children who don't have hemophilia.
+                
+For this process, women have their eggs removed and fertilized by sperm in a laboratory. The embryos are then tested for hemophilia. Only embryos without the disorder are implanted in the womb.
+Hemophilia is a bleeding disorder that slows the blood clotting process. People with this condition experience prolonged bleeding or oozing following an injury, surgery, or having a tooth pulled. In severe cases of hemophilia, continuous bleeding occurs after minor trauma or even in the absence of injury (spontaneous bleeding). Serious complications can result from bleeding into the joints, muscles, brain, or other internal organs. Milder forms of hemophilia do not necessarily involve spontaneous bleeding, and the condition may not become apparent until abnormal bleeding occurs following surgery or a serious injury.  The major types of this condition are hemophilia A (also known as classic hemophilia or factor VIII deficiency) and hemophilia B (also known as Christmas disease or factor IX deficiency). Although the two types have very similar signs and symptoms, they are caused by mutations in different genes. People with an unusual form of hemophilia B, known as hemophilia B Leyden, experience episodes of excessive bleeding in childhood but have few bleeding problems after puberty.
+The two major forms of hemophilia occur much more commonly in males than in females. Hemophilia A is the most common type of the condition; 1 in 4,000 to 1 in 5,000 males worldwide are born with this disorder. Hemophilia B occurs in approximately 1 in 20,000 newborn males worldwide.
+Changes in the F8 gene are responsible for hemophilia A, while mutations in the F9 gene cause hemophilia B. The F8 gene provides instructions for making a protein called coagulation factor VIII. A related protein, coagulation factor IX, is produced from the F9 gene. Coagulation factors are proteins that work together in the blood clotting process. After an injury, blood clots protect the body by sealing off damaged blood vessels and preventing excessive blood loss.  Mutations in the F8 or F9 gene lead to the production of an abnormal version of coagulation factor VIII or coagulation factor IX, or reduce the amount of one of these proteins. The altered or missing protein cannot participate effectively in the blood clotting process. As a result, blood clots cannot form properly in response to injury. These problems with blood clotting lead to continuous bleeding that can be difficult to control. The mutations that cause severe hemophilia almost completely eliminate the activity of coagulation factor VIII or coagulation factor IX. The mutations responsible for mild and moderate hemophilia reduce but do not eliminate the activity of one of these proteins.  Another form of the disorder, known as acquired hemophilia, is not caused by inherited gene mutations. This rare condition is characterized by abnormal bleeding into the skin, muscles, or other soft tissues, usually beginning in adulthood. Acquired hemophilia results when the body makes specialized proteins called autoantibodies that attack and disable coagulation factor VIII. The production of autoantibodies is sometimes associated with pregnancy, immune system disorders, cancer, or allergic reactions to certain drugs. In about half of cases, the cause of acquired hemophilia is unknown.
+Hemophilia A and hemophilia B are inherited in an X-linked recessive pattern. The genes associated with these conditions are located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, it is very rare for females to have hemophilia. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In X-linked recessive inheritance, a female with one altered copy of the gene in each cell is called a carrier. Carrier females have about half the usual amount of coagulation factor VIII or coagulation factor IX, which is generally enough for normal blood clotting. However, about 10 percent of carrier females have less than half the normal amount of one of these coagulation factors; these individuals are at risk for abnormal bleeding, particularly after an injury, surgery, or tooth extraction.
+These resources address the diagnosis or management of hemophilia:  - Gene Review: Gene Review: Hemophilia A  - Gene Review: Gene Review: Hemophilia B  - Genetic Testing Registry: HEMOPHILIA B(M)  - Genetic Testing Registry: Hemophilia  - Genetic Testing Registry: Hereditary factor IX deficiency disease  - Genetic Testing Registry: Hereditary factor VIII deficiency disease  - Genomics Education Programme (UK): Haemophilia A  - MedlinePlus Encyclopedia: Factor IX Assay  - MedlinePlus Encyclopedia: Factor VIII Assay  - MedlinePlus Encyclopedia: Hemophilia A  - MedlinePlus Encyclopedia: Hemophilia B  - National Heart, Lung, and Blood Institute: How is Hemophilia Diagnosed?  - National Heart, Lung, and Blood Institute: How is Hemophilia Treated?  - National Hemophilia Foundation: Hemophilia Treatment Centers   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,50 @@
+Fanconi anemia is an inherited condition that affects the bone marrow, resulting in decreased production of all types of blood cells. People with this condition have lower-than-normal numbers of white blood cells, red blood cells, and platelets (cells that help the blood clot). Not enough white blood cells can lead to infections; a lack of red blood cells may result in anemia; and a decreased amount of platelets may lead to excess bleeding. Fanconi anemia can be caused by mutations in various genes; it can either be inherited in an autosomal recessive or X-linked recessive fashion.
+Fanconi anemia (FA) is an inherited disease. The term inherited means that the disease is passed from parents to children through genes. At least 13 faulty genes are associated with FA. FA occurs when both parents pass the same faulty FA gene to their child.
+                
+People who have only one faulty FA gene are FA "carriers." Carriers don't have FA, but they can pass the faulty gene to their children.
+                
+If both of your parents have a faulty FA gene, you have:
+                
+A 25 percent chance of having FA
+                
+A 25 percent chance of not having FA
+                
+A 50 percent chance of being an FA carrier and passing the gene to any children you have
+                
+If only one of your parents has a faulty FA gene, you won't have the disorder. However, you have a 50 percent chance of being an FA carrier and passing the gene to any children you have.
+Fanconi anemia (FA) occurs in all racial and ethnic groups and affects men and women equally.
+                
+In the United States, about 1 out of every 181 people is an FA carrier. This carrier rate leads to about 1 in 130,000 people being born with FA.
+                
+Two ethnic groups, Ashkenazi Jews and Afrikaners, are more likely than other groups to have FA or be FA carriers.
+                
+Ashkenazi Jews are people who are descended from the Jewish population of Eastern Europe. Afrikaners are White natives of South Africa who speak a language called Afrikaans. This ethnic group is descended from early Dutch, French, and German settlers.
+                
+In the United States, 1 out of 90 Ashkenazi Jews is an FA carrier, and 1 out of 30,000 is born with FA.
+                
+Major Risk Factors
+                
+FA is an inherited diseasethat is, it's passed from parents to children through genes. At least 13 faulty genes are associated with FA. FA occurs if both parents pass the same faulty FA gene to their child.
+                
+Children born into families with histories of FA are at risk of inheriting the disorder. Children whose mothers and fathers both have family histories of FA are at even greater risk. A family history of FA means that it's possible that a parent carries a faulty gene associated with the disorder.
+                
+Children whose parents both carry the same faulty gene are at greatest risk of inheriting FA. Even if these children aren't born with FA, they're still at risk of being FA carriers.
+                
+Children who have only one parent who carries a faulty FA gene also are at risk of being carriers. However, they're not at risk of having FA.
+ou can't prevent Fanconi anemia (FA) because it's an inherited disease. If a child gets two copies of the same faulty FA gene, he or she will have the disease.
+                
+If you're at high risk for FA and are planning to have children, you may want to consider genetic counseling. A counselor can help you understand your risk of having a child who has FA. He or she also can explain the choices that are available to you.
+                
+If you're already pregnant, genetic testing can show whether your child has FA. For more information on genetic testing, go to "How Is Fanconi Anemia Diagnosed?"
+                
+In the United States, Ashkenazi Jews (Jews of Eastern European descent) are at higher risk for FA than other ethnic groups. For Ashkenazi Jews, it's recommended that prospective parents get tested for FA-related gene mutations before getting pregnant.
+                
+Preventing Complications
+                
+If you or your child has FA, you can prevent some health problems related to the disorder. Pneumonia, hepatitis, and chicken pox can occur more often and more severely in people who have FA compared with those who don't. Ask your doctor about vaccines for these conditions.
+                
+People who have FA also are at higher risk than other people for some cancers. These cancers include leukemia (a type of blood cancer), myelodysplastic syndrome (abnormal levels of all three types of blood cells), and liver cancer. Screening and early detection can help manage these life-threatening diseases.
+Fanconi anemia occurs in 1 in 160,000 individuals worldwide. This condition is more common among people of Ashkenazi Jewish descent, the Roma population of Spain, and black South Africans.
+Mutations in at least 15 genes can cause Fanconi anemia. Proteins produced from these genes are involved in a cell process known as the FA pathway. The FA pathway is turned on (activated) when the process of making new copies of DNA, called DNA replication, is blocked due to DNA damage. The FA pathway sends certain proteins to the area of damage, which trigger DNA repair so DNA replication can continue.  The FA pathway is particularly responsive to a certain type of DNA damage known as interstrand cross-links (ICLs). ICLs occur when two DNA building blocks (nucleotides) on opposite strands of DNA are abnormally attached or linked together, which stops the process of DNA replication. ICLs can be caused by a buildup of toxic substances produced in the body or by treatment with certain cancer therapy drugs.  Eight proteins associated with Fanconi anemia group together to form a complex known as the FA core complex. The FA core complex activates two proteins, called FANCD2 and FANCI. The activation of these two proteins brings DNA repair proteins to the area of the ICL so the cross-link can be removed and DNA replication can continue.  Eighty to 90 percent of cases of Fanconi anemia are due to mutations in one of three genes, FANCA, FANCC, and FANCG. These genes provide instructions for producing components of the FA core complex. Mutations in any of the many genes associated with the FA core complex will cause the complex to be nonfunctional and disrupt the entire FA pathway. As a result, DNA damage is not repaired efficiently and ICLs build up over time. The ICLs stall DNA replication, ultimately resulting in either abnormal cell death due to an inability make new DNA molecules or uncontrolled cell growth due to a lack of DNA repair processes. Cells that divide quickly, such as bone marrow cells and cells of the developing fetus, are particularly affected. The death of these cells results in the decrease in blood cells and the physical abnormalities characteristic of Fanconi anemia. When the buildup of errors in DNA leads to uncontrolled cell growth, affected individuals can develop acute myeloid leukemia or other cancers.
+Fanconi anemia is most often inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  Very rarely, this condition is inherited in an X-linked recessive pattern. The gene associated with X-linked recessive Fanconi anemia is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+These resources address the diagnosis or management of Fanconi anemia:  - Cincinnati Children's Hospital: Fanconi Anemia Comprehensive Care Center  - Fanconi Anemia Research Fund: Fanconi Anemia Guidelines for Diagnosis and Management  - Gene Review: Gene Review: Fanconi Anemia  - Genetic Testing Registry: Fanconi anemia  - Genetic Testing Registry: Fanconi anemia, complementation group A  - Genetic Testing Registry: Fanconi anemia, complementation group B  - Genetic Testing Registry: Fanconi anemia, complementation group C  - Genetic Testing Registry: Fanconi anemia, complementation group D1  - Genetic Testing Registry: Fanconi anemia, complementation group D2  - Genetic Testing Registry: Fanconi anemia, complementation group E  - Genetic Testing Registry: Fanconi anemia, complementation group F  - Genetic Testing Registry: Fanconi anemia, complementation group G  - Genetic Testing Registry: Fanconi anemia, complementation group I  - Genetic Testing Registry: Fanconi anemia, complementation group J  - Genetic Testing Registry: Fanconi anemia, complementation group L  - Genetic Testing Registry: Fanconi anemia, complementation group M  - Genetic Testing Registry: Fanconi anemia, complementation group N  - Genetic Testing Registry: Fanconi anemia, complementation group O  - Genetic Testing Registry: Fanconi anemia, complementation group P  - MedlinePlus Encyclopedia: Fanconi's Anemia  - National Cancer Institute: Adult Acute Myeloid Leukemia Treatment PDQ  - National Cancer Institute: Myelodysplastic Syndromes Treatment PDQ  - National Heart Lung and Blood Institute: How is Fanconi Anemia Treated?  - The Rockefeller University: International Fanconi Anemia Registry   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,65 @@
+ Do you wake up feeling tired or feel very sleepy during the day, even if you have had enough sleep? You might have a sleep disorder. The most common kinds are       - Insomnia - a hard time falling or staying asleep    - Sleep apnea - breathing interruptions during sleep    -  Restless legs syndrome - a tingling or prickly sensation in the legs     - Narcolepsy - daytime "sleep attacks"       Nightmares, night terrors, sleepwalking, sleep talking, head banging, wetting the bed and grinding your teeth are kinds of sleep problems called parasomnias. There are treatments for most sleep disorders. Sometimes just having regular sleep habits can help.
+Sleep apnea is a common disorder that causes your breathing to stop or get very shallow. Breathing pauses can last from a few seconds to minutes. They may occur 30 times or more an hour.    The most common type is obstructive sleep apnea. It causes your airway to collapse or become blocked during sleep. Normal breathing starts again with a snort or choking sound. People with sleep apnea often snore loudly. However, not everyone who snores has sleep apnea.    You are more at risk for sleep apnea if you are overweight, male, or have a family history or small airways. Children with enlarged tonsils may also get it.    Doctors diagnose sleep apnea based on medical and family histories, a physical exam, and sleep study results.    When your sleep is interrupted throughout the night, you can be drowsy during the day. People with sleep apnea are at higher risk for car crashes, work-related accidents, and other medical problems. If you have it, it is important to get treatment. Lifestyle changes, mouthpieces, surgery, and breathing devices can treat sleep apnea in many people.    NIH: National Heart, Lung, and Blood Institute
+ The Human Phenotype Ontology provides the following list of signs and symptoms for Glaucoma sleep apnea. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Glaucoma 90% Respiratory insufficiency 90% Sleep apnea - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+When you're awake, throat muscles help keep your airway stiff and open so air can flow into your lungs. When you sleep, these muscles relax, which narrows your throat.
+                
+Normally, this narrowing doesnt prevent air from flowing into and out of your lungs. But if you have sleep apnea, your airway can become partially or fully blocked because:
+                
+Your throat muscles and tongue relax more than normal.
+                
+Your tongue and tonsils (tissue masses in the back of your mouth) are large compared with the opening into your windpipe.
+                
+You're overweight. The extra soft fat tissue can thicken the wall of the windpipe. This narrows the inside of the windpipe, which makes it harder to keep open.
+                
+The shape of your head and neck (bony structure) may cause a smaller airway size in the mouth and throat area.
+                
+The aging process limits your brain signals' ability to keep your throat muscles stiff during sleep. Thus, your airway is more likely to narrow or collapse.
+                
+Not enough air flows into your lungs if your airway is partially or fully blocked during sleep. As a result, loud snoring and a drop in your blood oxygen level can occur.
+                
+If the oxygen drops to a dangerous level, it triggers your brain to disturb your sleep. This helps tighten the upper airway muscles and open your windpipe. Normal breathing then starts again, often with a loud snort or choking sound.
+                
+Frequent drops in your blood oxygen level and reduced sleep quality can trigger the release of stress hormones. These hormones raise your heart rate and increase your risk for high blood pressure, heart attack, stroke, and arrhythmias (irregular heartbeats). The hormones also can raise your risk for, or worsen, heart failure.
+                
+Untreated sleep apnea also can lead to changes in how your body uses energy. These changes increase your risk for obesity and diabetes.
+Obstructive sleep apnea is a common condition. About half of the people who have this condition are overweight.
+                
+Men are more likely than women to have sleep apnea. Although the condition can occur at any age, the risk increases as you get older. A family history of sleep apnea also increases your risk for the condition.
+                
+People who have small airways in their noses, throats, or mouths are more likely to have sleep apnea. Small airways might be due to the shape of these structures or allergies or other conditions that cause congestion.
+                
+Small children might have enlarged tonsil tissues in their throats. Enlarged tonsil tissues raise a childs risk for sleep apnea. Overweight children also might be at increased risk for sleep apnea.
+                
+About half of the people who have sleep apnea also have high blood pressure. Sleep apnea also is linked to smoking, metabolic syndrome, diabetes, and risk factors for stroke and heart failure.
+                
+Race and ethnicity might play a role in the risk of developing sleep apnea. However, more research is needed.
+Major Signs and Symptoms
+                
+One of the most common signs of obstructive sleep apnea is loud and chronic (ongoing) snoring. Pauses may occur in the snoring. Choking or gasping may follow the pauses.
+                
+The snoring usually is loudest when you sleep on your back; it might be less noisy when you turn on your side. You might not snore every night. Over time, however, the snoring can happen more often and get louder.
+                
+You're asleep when the snoring or gasping happens. You likely won't know that you're having problems breathing or be able to judge how severe the problem is. A family member or bed partner often will notice these problems before you do.
+                
+Not everyone who snores has sleep apnea.
+                
+Another common sign of sleep apnea is fighting sleepiness during the day, at work, or while driving. You may find yourself rapidly falling asleep during the quiet moments of the day when you're not active. Even if you don't have daytime sleepiness, talk with your doctor if you have problems breathing during sleep.
+                
+Other Signs and Symptoms
+                
+Others signs and symptoms of sleep apnea include:
+                
+Morning headaches
+                
+Memory or learning problems and not being able to concentrate
+                
+Feeling irritable, depressed, or having mood swings or personality changes
+                
+Waking up frequently to urinate
+                
+Dry mouth or sore throat when you wake up
+                
+In children, sleep apnea can cause hyperactivity, poor school performance, and angry or hostile behavior. Children who have sleep apnea also may breathe through their mouths instead of their noses during the day.
+There are a variety of treatments for sleep apnea, depending on an individuals medical history and the severity of the disorder. Most treatment regimens begin with lifestyle changes, such as avoiding alcohol and medications that relax the central nervous system (for example, sedatives and muscle relaxants), losing weight, and quitting smoking. Some people are helped by special pillows or devices that keep them from sleeping on their backs, or oral appliances to keep the airway open during sleep. If these conservative methods are inadequate, doctors often recommend continuous positive airway pressure (CPAP), in which a face mask is attached to a tube and a machine that blows pressurized air into the mask and through the airway to keep it open. Also available are machines that offer variable positive airway pressure (VPAP) and automatic positive airway pressure (APAP). There are also surgical procedures that can be used to remove tissue and widen the airway. Some individuals may need a combination of therapies to successfully treat their sleep apnea.
+Untreated, sleep apnea can be life threatening. Excessive daytime sleepiness can cause people to fall asleep at inappropriate times, such as while driving. Sleep apnea also appears to put individuals at risk for stroke and transient ischemic attacks (TIAs, also known as mini-strokes), and is associated with coronary heart disease, heart failure, irregular heartbeat, heart attack, and high blood pressure. Although there is no cure for sleep apnea, recent studies show that successful treatment can reduce the risk of heart and blood pressure problems.
+The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to sleep apnea in laboratories at the NIH, and also support additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure sleep disorders, such as sleep apnea.

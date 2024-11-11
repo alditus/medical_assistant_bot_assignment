@@ -1,0 +1,32 @@
+Tuberculosis (TB) is a disease caused by bacteria called Mycobacterium tuberculosis. The bacteria usually attack the lungs, but they can also damage other parts of the body.     TB spreads through the air when a person with TB of the lungs or throat coughs, sneezes, or talks. If you have been exposed, you should go to your doctor for tests. You are more likely to get TB if you have a weak immune system.    Symptoms of TB in the lungs may include       -  A bad cough that lasts 3 weeks or longer    -  Weight loss    -  Loss of appetite    -  Coughing up blood or mucus    -  Weakness or fatigue     -  Fever    -  Night sweats       Skin tests, blood tests, x-rays, and other tests can tell if you have TB. If not treated properly, TB can be deadly. You can usually cure active TB by taking several medicines for a long period of time.    NIH: National Institute of Allergy and Infectious Diseases
+The Division of Tuberculosis Elimination (DTBE) Laboratory Branch (LB) provides services for the following tests on mycobacterial cultures. Any local health department, licensed physician's office, licensed laboratory or licensed health care facility may submit cultures for testing but they must be routed through either their state health department or other authorized facility.
+  Genotyping
+  State or local TB control programs
+  
+A genotyping laboratory, in Michigan  is under contract with CDC to provide genotyping services to TB programs in the United States. Three genotyping methods to identify TB strains:
+  
+   - Spoligotyping
+   - Mycobacterial interspersed repetitive unit (MIRU) analysis
+   - IS6110-based restriction fragment length polymorphism (RFLP) analysis
+  
+  
+For more information, view the Guide to the Application of Genotyping to Tuberculosis Prevention and Control.
+  
+DTBE epidemiologic investigations and surveillance activities
+  
+   - The LB provides support for DTBE epidemiologic investigations and surveillance activities. TB genotyping results, when combined with epidemiologic data, help to distinguish TB patients who are involved in the same chain of recent transmission.
+  
+  Drug susceptibility testing
+  
+The LB performs drug susceptibility testing for selected Mycobacterium species referred from state or other authorized health facilities. Cultures of mycobacteria are tested by the indirect proportion method with antituberculosis drugs incorporated into 7H10 agar plates.
+  
+  Additional Resources
+TB Epidemiologic Studies Consortium
+  
+ The TB Epidemiologic Studies Consortium (TBESC) was established to strengthen, focus, and coordinate tuberculosis (TB) research. The TBESC is designed to build the scientific research capacities of state and metropolitan TB control programs, participating laboratories, academic institutions, hospitals, and both non- and for-profit organizations.
+                
+  TB Trials Consortium
+  
+ The TB Trials Consortium (TBTC) is a collaboration of North American and international clinical investigators whose mission is to conduct programmatically relevant research concerning the diagnosis, clinical management, and prevention of TB infection and disease.
+  Behavioral and Social Science Research
+  Behavioral and social science research has the potential to make a tremendous impact on TB elimination efforts. This research is needed to 1) understand how behaviors of both patients and providers affect TB-related care seeking, diagnosis, treatment success, and prevention; and 2) understand how other social, cultural, and environmental influences affect health seeking and treatment outcomes related to TB.

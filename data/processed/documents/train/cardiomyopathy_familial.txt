@@ -1,0 +1,113 @@
+Cardiomyopathy is the name for diseases of the heart muscle. These diseases enlarge your heart muscle or make it thicker and more rigid than normal. In rare cases, scar tissue replaces the muscle tissue.    Some people live long, healthy lives with cardiomyopathy. Some people don't even realize they have it. In others, however, it can make the heart less able to pump blood through the body. This can cause serious complications, including        -  Heart failure     -  Abnormal heart rhythms     -  Heart valve problems    -  Sudden cardiac arrest       Heart attacks, high blood pressure, infections, and other diseases can all cause cardiomyopathy. Some types of cardiomyopathy run in families. In many people, however, the cause is unknown. Treatment might involve medicines, surgery, other medical procedures, and lifestyle changes.     NIH: National Heart, Lung, and Blood Institute
+Familial hypertrophic cardiomyopathy (HCM) is an inherited heart condition characterized by thickening of the heart muscle. The thickening most often occurs in the muscle wall that separates the left and right ventricles from each other (interventricular septum). This may restrict the flow of oxygen-rich blood from the heart, or it may lead to less efficient pumping of blood. Signs and symptoms can vary. While some people have no symptoms, others may have chest pain, shortness of breath, palpitations, lightheadedness, dizziness, and/or fainting. Even in the absence of symptoms, familial HCM can have serious consequences such as life-threatening arrhythmias, heart failure, and an increased risk of sudden death. Familial HCM may be caused by mutations in any of several genes and is typically inherited in an autosomal dominant manner. Treatment may depend on severity of symptoms and may include medications, surgical procedures, and/or an implantable cardioverter-defibrillator (ICD).
+The Human Phenotype Ontology provides the following list of signs and symptoms for Familial hypertrophic cardiomyopathy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of metabolism/homeostasis - Arrhythmia - Asymmetric septal hypertrophy - Autosomal dominant inheritance - Congestive heart failure - Subaortic stenosis - Sudden death - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+ Familial hypertrophic cardiomyopathy (HCM) is caused by mutations in any of several genes. The genes most commonly responsible are the MYH7, MYBPC3, TNNT2, and TNNI3 genes. Other genes that have not yet been identified may also be responsible for familial HCM. The genes known to be responsible for familial HCM give the body instructions to make proteins that play important roles in contraction of the heart muscle. The proteins form structures in muscle cells called sarcomeres, which are needed for muscle contractions. Sarcomeres are made of protein fibers that attach to each other and release, allowing muscles to contract. The contractions of heart muscle are needed to pump blood to the rest of the body. While it is unclear exactly how mutations in these genes cause familial HCM, they are thought to lead to abnormal structure or function of sarcomeres, or reduce the amount of proteins made. When the function of sarcomeres is impaired, normal heart muscle contractions are disrupted.
+How  Familial hypertrophic cardiomyopathy (HCM) is inherited in an autosomal dominant manner. This means that having only one changed (mutated) copy of the responsible gene in each cell is enough to cause features of the condition. When a person with an autosomal dominant condition has children, each child has a 50% (1 in 2) chance to inherit the mutated copy of the gene. In rare cases, a person with familial HCM has a mutation in both copies of the responsible gene, which leads to more severe signs and symptoms.
+ Yes. Familial hypertrophic cardiomyopathy (HCM) is caused by mutations in any of several known genes, and possibly other genes that have not yet been identified. Genetic testing for HCM is most informative as a "family test" rather than a test of one person. Results are most accurately interpreted after merging both genetic and medical test results from multiple family members. Ideally, the family member first having genetic testing should have a definitive diagnosis of HCM and be the most severely affected person in the family. Genetic testing of at-risk, asymptomatic relatives is possible when the responsible mutation has been identified in an affected family member. Testing should be performed in the context of formal genetic counseling. An algorithm showing a general approach to finding the specific genetic cause in people with HCM can be viewed here. The Genetic Testing Registry (GTR) provides information about the genetic tests for familial HCM. The intended audience for the GTR is health care providers and researchers. Patients and consumers with specific questions about a genetic test should contact a health care provider or a genetics professional. As is often the case with genetic testing in general, there are benefits and limitations of genetic testing for familial HCM. Testing may confirm the diagnosis in a person with symptoms, and may help to identify family members at risk. However, results are sometimes unclear; testing cannot detect all mutations; and results cannot be used to predict whether a person will develop symptoms, age of onset, or long-term outlook (prognosis).
+Cardiomyopathy can be acquired or inherited. Acquired means you arent born with the disease, but you develop it due to another disease, condition, or factor.
+                
+Inherited means your parents passed the gene for the disease on to you. Researchers continue to look for the genetic links to cardiomyopathy and to explore how these links cause or contribute to the various types of the disease.
+                
+Many times, the cause of cardiomyopathy isnt known. This often is the case when the disease occurs in children.
+                
+Hypertrophic Cardiomyopathy
+                
+Hypertrophic cardiomyopathy usually is inherited. Its caused by a mutation or change in some of the genes in heart muscle proteins. Hypertrophic cardiomyopathy also can develop over time because of high blood pressure, aging, or other diseases, such as diabetes or thyroid disease. Sometimes the cause of the disease isnt known.
+                
+Dilated Cardiomyopathy
+                
+The cause of dilated cardiomyopathy often isnt known. About one-third of the people who have dilated cardiomyopathy inherit it from their parents.
+                
+Certain diseases, conditions, and substances also can cause the disease, such as:
+                
+Alcohol, especially if you also have a poor diet
+                
+Certain toxins, such as poisons and heavy metals
+                
+Complications during the last months of pregnancy
+                
+Coronary heart disease, heart attack, high blood pressure, diabetes, thyroid disease, viral hepatitis, and HIV
+                
+Illegal drugs, such as cocaine and amphetamines, and some medicines used to treat cancer
+                
+Infections, especially viral infections that inflame the heart muscle
+                
+Restrictive Cardiomyopathy
+                
+Certain diseases, conditions, and factors can cause restrictive cardiomyopathy, including:
+                
+Amyloidosis: A disease in which abnormal proteins build up in the bodys organs, including the heart
+                
+Connective tissue disorders
+                
+Hemochromatosis: A disease in which too much iron builds up in the body. The extra iron is toxic to the body and can damage the organs, including the heart.
+                
+Sarcoidosis: A disease that causes inflammation and can affect various organs in the body. Researchers believe that an abnormal immune response may cause sarcoidosis. This abnormal response causes tiny lumps of cells to form in the bodys organs, including the heart.
+                
+Some cancer treatments, such as radiation and chemotherapy
+                
+Arrhythmogenic Right Ventricular Dysplasia
+                
+Researchers think that arrhythmogenic right ventricular dysplasia is an inherited disease.
+People of all ages and races can have cardiomyopathy. However, certain types of the disease are more common in certain groups.
+                
+Dilated cardiomyopathy is more common in African Americans than Whites. This type of the disease also is more common in men than women.
+                
+Teens and young adults are more likely than older people to have arrhythmogenic right ventricular dysplasia, although it's rare in both groups.
+                
+Major Risk Factors
+                
+Certain diseases, conditions, or factors can raise your risk for cardiomyopathy. Major risk factors include:
+                
+A family history of cardiomyopathy, heart failure, or sudden cardiac arrest (SCA)
+                
+A disease or condition that can lead to cardiomyopathy, such as coronary heart disease, heart attack, or a viral infection that inflames the heart muscle
+                
+Diabetes or other metabolic diseases, or severe obesity
+                
+Diseases that can damage the heart, such as hemochromatosis, sarcoidosis, or amyloidosis
+                
+Long-term alcoholism
+                
+Long-term high blood pressure
+                
+Some people who have cardiomyopathy never have signs or symptoms. Thus, it's important to identify people who may be at high risk for the disease. This can help prevent future problems, such as serious arrhythmias (irregular heartbeats) or SCA.
+Some people who have cardiomyopathy never have signs or symptoms. Others don't have signs or symptoms in the early stages of the disease.
+                
+As cardiomyopathy worsens and the heart weakens, signs and symptoms of heart failure usually occur. These signs and symptoms include:
+                
+Shortness of breath or trouble breathing, especially with physical exertion
+                
+Fatigue (tiredness)
+                
+Swelling in the ankles, feet, legs, abdomen, and veins in the neck
+                
+Other signs and symptoms may include dizziness; light-headedness; fainting during physical activity; arrhythmias (irregular heartbeats); chest pain, especially after physical exertion or heavy meals; and heart murmurs. (Heart murmurs are extra or unusual sounds heard during a heartbeat.)
+You can't prevent inherited types of cardiomyopathy. However, you can take steps to lower your risk for diseases or conditions that may lead to or complicate cardiomyopathy. Examples includecoronary heart disease,high blood pressure, andheart attack.
+                
+Your doctor may advise you to make heart-healthy lifestyle changes, such as:
+                
+Avoiding the use of alcohol and illegal drugs
+                
+Getting enough sleep and rest
+                
+Heart-healthy eating
+                
+Physicalactivity
+                
+Quitting smoking
+                
+Managing stress
+                
+Your cardiomyopathy may be due to an underlying disease or condition. If you treat that condition early enough, you may be able to prevent cardiomyopathy complications. For example, to control high blood pressure,high blood cholesterol, and diabetes:
+                
+Follow your doctors advice about lifestyle changes.
+                
+Get regular checkups with your doctor.
+                
+Take all of your medicines as your doctor prescribes.
+Familial hypertrophic cardiomyopathy is a heart condition characterized by thickening (hypertrophy) of the heart (cardiac) muscle. Thickening usually occurs in the interventricular septum, which is the muscular wall that separates the lower left chamber of the heart (the left ventricle) from the lower right chamber (the right ventricle). In some people, thickening of the interventricular septum impedes the flow of oxygen-rich blood from the heart, which may lead to an abnormal heart sound during a heartbeat (heart murmur) and other signs and symptoms of the condition. Other affected individuals do not have physical obstruction of blood flow, but the pumping of blood is less efficient, which can also lead to symptoms of the condition. Cardiac hypertrophy often begins in adolescence or young adulthood, although it can develop at any time throughout life.  The symptoms of familial hypertrophic cardiomyopathy are variable, even within the same family. Many affected individuals have no symptoms. Other people with familial hypertrophic cardiomyopathy may experience chest pain; shortness of breath, especially with physical exertion; a sensation of fluttering or pounding in the chest (palpitations); lightheadedness; dizziness; and fainting.  While most people with familial hypertrophic cardiomyopathy are symptom-free or have only mild symptoms, this condition can have serious consequences. It can cause abnormal heart rhythms (arrhythmias) that may be life threatening. People with familial hypertrophic cardiomyopathy have an increased risk of sudden death, even if they have no other symptoms of the condition. A small number of affected individuals develop potentially fatal heart failure, which may require heart transplantation.
+Familial hypertrophic cardiomyopathy affects an estimated 1 in 500 people worldwide. It is the most common genetic heart disease in the United States.
+Mutations in one of several genes can cause familial hypertrophic cardiomyopathy; the most commonly involved genes are MYH7, MYBPC3, TNNT2, and TNNI3. Other genes, including some that have not been identified, may also be involved in this condition.  The proteins produced from the genes associated with familial hypertrophic cardiomyopathy play important roles in contraction of the heart muscle by forming muscle cell structures called sarcomeres. Sarcomeres, which are the basic units of muscle contraction, are made up of thick and thin protein filaments. The overlapping thick and thin filaments attach to each other and release, which allows the filaments to move relative to one another so that muscles can contract. In the heart, regular contractions of cardiac muscle pump blood to the rest of the body.  The protein produced from the MYH7 gene, called cardiac beta ()-myosin heavy chain, is the major component of the thick filament in sarcomeres. The protein produced from the MYBPC3 gene, cardiac myosin binding protein C, associates with the thick filament, providing structural support and helping to regulate muscle contractions.  The TNNT2 and TNNI3 genes provide instructions for making cardiac troponin T and cardiac troponin I, respectively, which are two of the three proteins that make up the troponin protein complex found in cardiac muscle cells. The troponin complex associates with the thin filament of sarcomeres. It controls muscle contraction and relaxation by regulating the interaction of the thick and thin filaments.  It is unknown how mutations in sarcomere-related genes lead to hypertrophy of the heart muscle and problems with heart rhythm. The mutations may result in an altered sarcomere protein or reduce the amount of the protein. An abnormality in or shortage of any one of these proteins may impair the function of the sarcomere, disrupting normal cardiac muscle contraction. Research shows that, in affected individuals, contraction and relaxation of the heart muscle is abnormal, even before hypertrophy develops. However, it is not clear how these contraction problems are related to hypertrophy or the symptoms of familial hypertrophic cardiomyopathy.
+This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Rarely, both copies of the gene are altered, leading to more severe signs and symptoms.  In most cases, an affected person has one parent with the condition.
+These resources address the diagnosis or management of familial hypertrophic cardiomyopathy:  - Cleveland Clinic  - Gene Review: Gene Review: Hypertrophic Cardiomyopathy Overview  - Genetic Testing Registry: Familial hypertrophic cardiomyopathy 1  - Genetic Testing Registry: Familial hypertrophic cardiomyopathy 2  - Genetic Testing Registry: Familial hypertrophic cardiomyopathy 4  - Genetic Testing Registry: Familial hypertrophic cardiomyopathy 7  - MedlinePlus Encyclopedia: Hypertrophic Cardiomyopathy  - Stanford University Hospitals and Clinics  - The Sarcomeric Human Cardiomyopathies Registry (ShaRe)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

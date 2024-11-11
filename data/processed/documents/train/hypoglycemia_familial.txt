@@ -1,0 +1,44 @@
+Hypoglycemia means low blood glucose, or blood sugar. Your body needs glucose to have enough energy. After you eat, your blood absorbs glucose. If you eat more sugar than your body needs, your muscles, and liver store the extra. When your blood sugar begins to fall, a hormone tells your liver to release glucose.    In most people, this raises blood sugar. If it doesn't, you have hypoglycemia, and your blood sugar can be dangerously low. Signs include        - Hunger    - Shakiness    - Dizziness    - Confusion    - Difficulty speaking    - Feeling anxious or weak       In people with diabetes, hypoglycemia is often a side effect of diabetes medicines. Eating or drinking something with carbohydrates can help. If it happens often, your health care provider may need to change your treatment plan.    You can also have low blood sugar without having diabetes. Causes include certain medicines or diseases, hormone or enzyme deficiencies, and tumors. Laboratory tests can help find the cause. The kind of treatment depends on why you have low blood sugar.    NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+The Human Phenotype Ontology provides the following list of signs and symptoms for Hyperinsulinemic hypoglycemia familial 2. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - Hyperinsulinemic hypoglycemia - Hypoglycemia - Large for gestational age - Pancreatic islet-cell hyperplasia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+The Human Phenotype Ontology provides the following list of signs and symptoms for Hyperinsulinemic hypoglycemia familial 3. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Diabetes mellitus - Hyperinsulinemic hypoglycemia - Hypoglycemic coma - Hypoglycemic seizures - Intellectual disability - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+Hypoglycemia causes symptoms such as
+                
+- hunger  - shakiness  - nervousness  - sweating  - dizziness or light-headedness  - sleepiness  - confusion  - difficulty speaking  - anxiety  - weakness
+                
+Hypoglycemia can also happen during sleep. Some signs of hypoglycemia during sleep include
+                
+- crying out or having nightmares  - finding pajamas or sheets damp from perspiration  - feeling tired, irritable, or confused after waking up
+Diabetes Medications
+                
+Hypoglycemia can occur as a side effect of some diabetes medications, including insulin and oral diabetes medicationspillsthat increase insulin production, such as
+                
+- chlorpropamide (Diabinese)  - glimepiride (Amaryl)  - glipizide (Glucotrol, Glucotrol XL)  - glyburide (DiaBeta, Glynase, Micronase)  - nateglinide (Starlix)  - repaglinide (Prandin)  - sitagliptin (Januvia)  - tolazamide  - tolbutamide
+                
+Certain combination pills can also cause hypoglycemia, including
+                
+- glipizide + metformin (Metaglip)  - glyburide + metformin (Glucovance)  - pioglitazone + glimepiride (Duetact)  - rosiglitazone + glimepiride (Avandaryl)  - sitagliptin + metformin (Janumet)
+                
+Other types of diabetes pills, when taken alone, do not cause hypoglycemia. Examples of these medications are
+                
+- acarbose (Precose)  - metformin (Glucophage)  - miglitol (Glyset)  - pioglitazone (Actos)  - rosiglitazone (Avandia)
+                
+However, taking these pills along with other diabetes medicationsinsulin, pills that increase insulin production, or bothincreases the risk of hypoglycemia.
+                
+In addition, use of the following injectable medications can cause hypoglycemia:
+                
+- Pramlintide (Symlin), which is used along with insulin  - Exenatide (Byetta), which can cause hypoglycemia when used in combination with chlorpropamide, glimepiride, glipizide, glyburide, tolazamide, and tolbutamide
+                
+More information about diabetes medications is provided in the NIDDK health topic, What I need to know about Diabetes Medicines, or by calling 18008608747.
+                
+Other Causes of Hypoglycemia
+                
+In people on insulin or pills that increase insulin production, low blood glucose can be due to
+                
+- meals or snacks that are too small, delayed, or skipped  - increased physical activity  - alcoholic beverages
+Diabetes-related Hypoglycemia
+                
+- When people with diabetes think their blood glucose level is low, they should check it and treat the problem right away.  - To treat hypoglycemia, people should have a serving of a quick-fix food, wait 15 minutes, and check their blood glucose again. They should repeat the treatment until their blood glucose is 70 mg/dL or above.  - People at risk for hypoglycemia should keep quick-fix foods in the car, at workanywhere they spend time.  - People at risk for hypoglycemia should be careful when driving. They should check their blood glucose frequently and snack as needed to keep their level 70 mg/dL or above.
+                
+Hypoglycemia Unrelated to Diabetes
+                
+- In reactive hypoglycemia, symptoms occur within 4 hours of eating. People with reactive hypoglycemia are usually advised to follow a healthy eating plan recommended by a registered dietitian.  - Fasting hypoglycemia can be caused by certain medications, critical illnesses, hereditary enzyme or hormonal deficiencies, and some kinds of tumors. Treatment targets the underlying problem.

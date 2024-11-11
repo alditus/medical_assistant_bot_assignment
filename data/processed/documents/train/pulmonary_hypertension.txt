@@ -1,0 +1,74 @@
+Pulmonary hypertension (PH) is high blood pressure in the arteries to your lungs. It is a serious condition. If you have it, the blood vessels that carry blood from your heart to your lungs become hard and narrow. Your heart has to work harder to pump the blood through. Over time, your heart weakens and cannot do its job and you can develop heart failure.     Symptoms of PH include       - Shortness of breath during routine activity, such as climbing two flights of stairs    - Tiredness    - Chest pain    - A racing heartbeat    - Pain on the upper right side of the abdomen    - Decreased appetite       As PH worsens, you may find it hard to do any physical activities.    There are two main kinds of PH. One runs in families or appears for no known reason. The other kind is related to another condition, usually heart or lung disease.     There is no cure for PH. Treatments can control symptoms. They involve treating the heart or lung disease, medicines, oxygen, and sometimes lung transplantation.    NIH: National Heart, Lung, and Blood Institute
+Pulmonary arterial hypertension (PAH) is a progressive condition that affects the heart and lungs. It is characterized by abnormally high blood pressure (hypertension) in the pulmonary artery, the blood vessel that carries blood from the heart to the lungs. The most common signs and symptoms are shortness of breath (dyspnea) during exertion and fainting spells. As the condition worsens, people can experience dizziness, swelling (edema) of the ankles or legs, chest pain, and a racing pulse. Most cases of PAH occur in individuals with no family history of the disorder. Although some cases are due to mutations in the BMPR2 gene and inherited in an autosomal dominant pattern, a gene mutation has not yet been identified in most individuals. When PAH is inherited from an affected relative it is called "familial" PAH. Cases with no identifiable cause may be referred to as "idiopathic" PAH. PAH can also occur secondary to an underlying disorder such as connective tissue diseases, HIV infection, chronic hemolytic anemia, and congenital heart disease, to name a few. PAH can also be induced by certain drugs and toxins, for example fenfluramine and dexfenfluramine (appetite suppressants now banned by the FDA), toxic rapeseed oil, and amphetamines.
+The Human Phenotype Ontology provides the following list of signs and symptoms for Pulmonary arterial hypertension. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Pulmonary hypertension 100% Chest pain 90% Elevated right atrial pressure 90% Increased pulmonary vascular resistance 90% Respiratory insufficiency 90% Right ventricular failure 90% Right ventricular hypertrophy 90% Edema of the lower limbs 50% Hepatomegaly 50% Vertigo 50% Abnormal thrombosis 33% Dyspnea 33% Pulmonary arterial medial hypertrophy 33% Pulmonary artery vasoconstriction 33% Pulmonary aterial intimal fibrosis 33% Abnormality of the tricuspid valve 7.5% Acrocyanosis 7.5% Ascites 7.5% Congestive heart failure 7.5% Hemoptysis 7.5% Recurrent respiratory infections 7.5% Sudden cardiac death 7.5% Arterial intimal fibrosis - Autosomal dominant inheritance - Hypertension - Incomplete penetrance - Telangiectasia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+ People with pulmonary arterial hypertension (PAH) benefit from receiving treatment at specialized centers. The Pulmonary Hypertension Association offers a Find a Doctor tool which may aid you in locating your nearest center. Treatment of serious or life threatening PAH may involve continuous IV epoprostenol. Other treatment options, include treprostinil, iloprost, bosentan, ambrisentan, sildenafil, and tadalafil. Many of these treatments can be administered in various forms, such as by shot, IV, or inhalation. A small number of people with PAH respond well to long term oral calcium channel blockers. Blood thinners, diuretics, and supplemental oxygen may be prescribed as needed. Many drugs can be harmful to people with PAH. The following should be avoided: appetite suppressants, cocaine, amphetamines (and related compounds), low oxygen environments (such as high altitudes), and possibly estrogen compounds (oral contraceptives and hormone replacement therapy).
+Pulmonary hypertension (PH) begins with inflammation and changes in the cells that line your pulmonary arteries. Other factors also can affect the pulmonary arteries and cause PH. For example, the condition may develop if:
+                
+The walls of the arteries tighten.
+                
+The walls of the arteries are stiff at birth or become stiff from an overgrowth of cells.
+                
+Blood clots form in the arteries.
+                
+These changes make it hard for your heart to push blood through your pulmonary arteries and into your lungs. Thus, the pressure in the arteries rises, causing PH.
+                
+Many factors can contribute to the process that leads to the different types of PH.
+                
+Group 1 pulmonary arterial hypertension (PAH) may have no known cause, or the condition may be inherited. ("Inherited" means the condition is passed from parents to children through genes.)
+                
+Some diseases and conditions also can cause group 1 PAH. Examples include HIV infection, congenital heart disease, and sickle cell disease. Also, the use of street drugs (such as cocaine) and certain diet medicines can lead to PAH.
+                
+Many diseases and conditions can cause groups 2 through 5 PH (often called secondary PH), including:
+                
+Mitral valve disease
+                
+Lung diseases, such as COPD (chronic obstructive pulmonary disease)
+                
+Sleep apnea
+                
+Sarcoidosis
+                
+For more information about the types of PH and the diseases, conditions, and factors that can cause them, go to "Types of Pulmonary Hypertension."
+The exact number of people who have pulmonary hypertension (PH) isn't known.
+                
+Group 1 pulmonary arterial hypertension (PAH) without a known cause is rare. It affects women more often than men. People who have group 1 PAH tend to be overweight.
+                
+PH that occurs with another disease or condition is more common.
+                
+PH usually develops between the ages of 20 and 60, but it can occur at any age. People who are at increased risk for PH include:
+                
+Those who have a family history of the condition.
+                
+Those who have certain diseases or conditions, such as heart and lung diseases, liver disease, HIV infection, or blood clots in the pulmonary arteries. (For more information about the diseases, conditions, and factors that cause PH, go to "Types of Pulmonary Hypertension.")
+                
+Those who use street drugs (such as cocaine) or certain diet medicines.
+                
+Those who live at high altitudes.
+Signs and symptoms of pulmonary hypertension (PH) may include:
+                
+Shortness of breath during routine activity, such as climbing two flights of stairs
+                
+Tiredness
+                
+Chest pain
+                
+A racing heartbeat
+                
+Pain on the upper right side of the abdomen
+                
+Decreased appetite
+                
+As PH worsens, you may find it hard to do any physical activities. At this point, other signs and symptoms may include:
+                
+Feeling light-headed, especially during physical activity
+                
+Fainting at times
+                
+Swelling in your legs and ankles
+                
+A bluish color on your lips and skin
+Pulmonary arterial hypertension is a progressive disorder characterized by abnormally high blood pressure (hypertension) in the pulmonary artery, the blood vessel that carries blood from the heart to the lungs. Pulmonary arterial hypertension is one form of a broader condition known as pulmonary hypertension. Pulmonary hypertension occurs when most of the very small arteries throughout the lungs narrow in diameter, which increases the resistance to blood flow through the lungs. To overcome the increased resistance, blood pressure increases in the pulmonary artery and in the right ventricle of the heart, which is the chamber that pumps blood into the pulmonary artery. Ultimately, the increased blood pressure can damage the right ventricle of the heart.  Signs and symptoms of pulmonary arterial hypertension occur when increased blood pressure cannot fully overcome the elevated resistance. As a result, the flow of oxygenated blood from the lungs to the rest of the body is insufficient. Shortness of breath (dyspnea) during exertion and fainting spells are the most common symptoms of pulmonary arterial hypertension. People with this disorder may experience additional symptoms, particularly as the condition worsens. Other symptoms include dizziness, swelling (edema) of the ankles or legs, chest pain, and a rapid heart rate.
+In the United States, about 1,000 new cases of pulmonary arterial hypertension are diagnosed each year. This disorder is twice as common in females as in males.
+Mutations in the BMPR2 gene are the most common genetic cause of pulmonary arterial hypertension. This gene plays a role in regulating the number of cells in certain tissues. Researchers suggest that a mutation in this gene promotes cell division or prevents cell death, resulting in an overgrowth of cells in small arteries throughout the lungs. As a result, these arteries narrow in diameter, which increases the resistance to blood flow. Blood pressure in the pulmonary artery and the right ventricle of the heart increases to overcome the increased resistance to blood flow.  Mutations in several additional genes have also been found to cause pulmonary arterial hypertension, but they are much less common causes of the disorder than are BMPR2 gene mutations. Variations in other genes may increase the risk of developing pulmonary arterial hypertension or modify the course of the disease (usually making it more severe). Changes in as-yet-unidentified genes may also be associated with this condition.  Although pulmonary arterial hypertension often occurs on its own, it can also be part of syndromes that affect many parts of the body. For example, this condition is occasionally found in people with systemic scleroderma, systemic lupus erythematosus, critical congenital heart disease, or Down syndrome.  Researchers have also identified nongenetic factors that increase the risk of developing pulmonary arterial hypertension. These include certain drugs used as appetite suppressants and several illegal drugs, such as cocaine and methamphetamine. Pulmonary arterial hypertension is also a rare complication of certain infectious diseases, including HIV and schistosomiasis.
+Pulmonary arterial hypertension is usually sporadic, which means it occurs in individuals with no known family history of the disorder. These non-familial cases are described as idiopathic pulmonary arterial hypertension. About 20 percent of these cases are caused by mutations in one of the genes known to be associated with the disease, but most of the time a causative gene mutation has not been identified.  Inherited cases of this disorder are known as familial pulmonary arterial hypertension. When the condition is inherited, it most often has an autosomal dominant pattern of inheritance, which means one copy of an altered gene in each cell is sufficient to cause the disorder. However, many people with an altered gene never develop pulmonary arterial hypertension; this phenomenon is called reduced penetrance.
+These resources address the diagnosis or management of pulmonary arterial hypertension:  - Gene Review: Gene Review: Heritable Pulmonary Arterial Hypertension  - Genetic Testing Registry: Primary pulmonary hypertension  - Genetic Testing Registry: Primary pulmonary hypertension 2  - Genetic Testing Registry: Primary pulmonary hypertension 3  - Genetic Testing Registry: Primary pulmonary hypertension 4  - MedlinePlus Encyclopedia: Pulmonary hypertension   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

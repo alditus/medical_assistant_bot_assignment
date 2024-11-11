@@ -1,0 +1,91 @@
+Thrombotic thrombocytopenic purpura (TTP), congenital is a blood disorder characterized by low platelets (i.e., thrombocytopenia), small areas of bleeding under the skin (i.e., purpura), low red blood cell count, and hemolytic anemia. TTP causes blood clots (thrombi) to form in small blood vessels throughout the body. These clots can cause serious medical problems if they block vessels and restrict blood flow to organs such as the brain, kidneys, and heart. Resulting complications can include neurological problems (such as personality changes, headaches, confusion, and slurred speech), fever, abnormal kidney function, abdominal pain, and heart problems. Hemolytic anemia can lead to paleness, yellowing of the eyes and skin (jaundice), fatigue, shortness of breath, and a rapid heart rate. TTP, congenital is much rarer than the acquired form and typically appears in infancy or early childhood. Signs and symptoms often recur on a regular basis. TTP, congenital results from mutations in the ADAMTS13 gene. The condition is inherited in an autosomal recessive manner.
+The Human Phenotype Ontology provides the following list of signs and symptoms for Thrombotic thrombocytopenic purpura, congenital. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Respiratory distress 5% Autosomal recessive inheritance - Confusion - Elevated serum creatinine - Fever - Hemolytic-uremic syndrome - Heterogeneous - Increased blood urea nitrogen (BUN) - Increased serum lactate - Microangiopathic hemolytic anemia - Microscopic hematuria - Prolonged neonatal jaundice - Proteinuria - Reticulocytosis - Schistocytosis - Thrombocytopenia - Tremor - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+Idiopathic thrombocytopenic purpura (ITP) is a bleeding disorder characterized by too few platelets in the blood. This is because platelets are being destroyed by the immune system. Symptoms may include bruising, nosebleed or bleeding in the mouth, bleeding into the skin, and abnormally heavy menstruation. With treatment, the chance of remission (a symptom-free period) is good. Rarely, ITP may become a chronic ailment in adults and reappear, even after remission.
+The Human Phenotype Ontology provides the following list of signs and symptoms for Idiopathic thrombocytopenic purpura. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal bleeding - Autosomal dominant inheritance - Platelet antibody positive - Thrombocytopenia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+A lack of activity in the ADAMTS13 enzyme (a type of protein in the blood) causes thrombotic thrombocytopenic purpura (TTP). The ADAMTS13 gene controls the enzyme, which is involved in blood clotting.
+                
+Not having enough enzyme activity causes overactive blood clotting. In TTP, blood clots form in small blood vessels throughout the body. These clots can limit or block the flow of oxygen-rich blood to the body's organs, such as the brain, kidneys, and heart. As a result, serious health problems can develop.
+                
+The increased clotting that occurs in TTP also uses up many of the blood's platelets. With fewer platelets available in the blood, bleeding problems can occur.
+                
+People who have TTP may bleed inside their bodies, underneath the skin, or from the surface of the skin. When cut or injured, they also may bleed longer than normal.
+                
+TTP also can cause red blood cells to break apart faster than the body can replace them. This leads to hemolytic anemia.
+                
+Inherited Thrombotic Thrombocytopenic Purpura
+                
+In inherited TTP, the ADAMTS13 gene is faulty. It doesn't prompt the body to make a normal ADAMTS13 enzyme. As a result, enzyme activity is lacking or changed.
+                
+"Inherited" means that the condition is passed from parents to children through genes. A person who inherits TTP is born with two copies of the faulty geneone from each parent.
+                
+Most often, the parents each have one copy of the faulty gene, but have no signs or symptoms TTP.
+                
+Acquired Thrombotic Thrombocytopenic Purpura
+                
+In acquired TTP, the ADAMTS13 gene isn't faulty. Instead, the body makes antibodies (proteins) that block the activity of the ADAMTS13 enzyme.
+                
+"Acquired" means you aren't born with the condition, but you develop it sometime after birth.
+                
+Triggers for Thrombotic Thrombocytopenic Purpura
+                
+It's unclear what triggers inherited and acquired TTP, but some factors may play a role. These factors may include:
+                
+Some diseases and conditions, such as pregnancy, cancer, HIV, lupus, and infections
+                
+Some medical procedures, such as surgery and blood and marrow stem cell transplant
+                
+Some medicines, such as chemotherapy, ticlopidine, clopidogrel, cyclosporine A, and hormone therapy and estrogens
+                
+Quinine, which is a substance often found in tonic water and nutritional health products
+Thrombotic thrombocytopenic purpura (TTP) is a rare disorder. Most cases of TTP are acquired. Acquired TTP mostly occurs in adults, but it can affect children. The condition occurs more often in women and in Black people than in other groups.
+                
+Inherited TTP mainly affects newborns and children. Most people who have inherited TTP begin to have symptoms soon after birth. Some, however, don't have symptoms until they're adults.
+                
+It isn't clear what triggers inherited and acquired TTP, but some factors may play a role. These factors may include:
+                
+Some diseases and conditions, such as pregnancy, cancer, HIV, lupus, and infections
+                
+Some medical procedures, such as surgery and blood and marrow stem cell transplant
+                
+Some medicines, such as chemotherapy, ticlopidine, clopidogrel, cyclosporine A, and hormone therapy and estrogens
+                
+Quinine, which is a substance often found in tonic water and nutritional health products
+Blood clots, a low platelet count, and damaged red blood cells cause the signs and symptoms of thrombotic thrombocytopenic purpura (TTP).
+                
+The signs and symptoms include:
+                
+Purplish bruises on the skin or mucous membranes (such as in the mouth). These bruises, called purpura, are caused by bleeding under the skin.
+                
+Pinpoint-sized red or purple dots on the skin. These dots, called petechiae, often are found in groups and may look like a rash. Bleeding under the skin causes petechiae.
+                
+Paleness or jaundice (a yellowish color of the skin or whites of the eyes).
+                
+Fatigue (feeling very tired and weak).
+                
+Fever.
+                
+A fast heart rate or shortness of breath.
+                
+Headache, speech changes, confusion, coma, stroke, or seizure.
+                
+A low amount of urine, or protein or blood in the urine.
+                
+If you've had TTP and have any of these signs or symptoms, you may be having a relapse (flareup). Ask your doctor when to call him or her or seek emergency care.
+Both inherited and acquired thrombotic thrombocytopenic purpura (TTP) occur suddenly with no clear cause. You can't prevent either type.
+                
+If you've had TTP, watch for signs and symptoms of a relapse (flareup). (For more information, go to "Living With Thrombotic Thrombocytopenic Purpura.")
+                
+Ask your doctor about factors that may trigger TTP or a flareup, including:
+                
+Some diseases or conditions, such as pregnancy, cancer, HIV, lupus, or infections.
+                
+Some medical procedures, such as surgery and blood and marrow stem cell transplant.
+                
+Some medicines, such as ticlopidine, clopidogrel, cyclosporine A, chemotherapy, and hormone therapy and estrogens. If you take any of these medicines, your doctor may prescribe a different medicine.
+                
+Quinine, which is a substance often found in tonic water and nutritional health products.
+Thrombotic thrombocytopenic purpura is a rare disorder that causes blood clots (thrombi) to form in small blood vessels throughout the body. These clots can cause serious medical problems if they block vessels and restrict blood flow to organs such as the brain, kidneys, and heart. Resulting complications can include neurological problems (such as personality changes, headaches, confusion, and slurred speech), fever, abnormal kidney function, abdominal pain, and heart problems.  Blood clots normally form to prevent excess blood loss at the site of an injury. In people with thrombotic thrombocytopenic purpura, clots develop in blood vessels even in the absence of injury. Blood clots are formed from clumps of cell fragments called platelets, which circulate in the blood and assist with clotting. Because a large number of platelets are used to make clots in people with thrombotic thrombocytopenic purpura, fewer platelets are available in the bloodstream. A reduced level of circulating platelets is known as thrombocytopenia. Thrombocytopenia can lead to small areas of bleeding just under the surface of the skin, resulting in purplish spots called purpura.  This disorder also causes red blood cells to break down (undergo hemolysis) prematurely. As blood squeezes past clots within blood vessels, red blood cells can break apart. A condition called hemolytic anemia occurs when red blood cells are destroyed faster than the body can replace them. This type of anemia leads to paleness, yellowing of the eyes and skin (jaundice), fatigue, shortness of breath, and a rapid heart rate.  There are two major forms of thrombotic thrombocytopenic purpura, an acquired (noninherited) form and a familial form. The acquired form usually appears in late childhood or adulthood. Affected individuals may have a single episode of signs and symptoms, or they may recur over time. The familial form of this disorder is much rarer and typically appears in infancy or early childhood. In people with the familial form, signs and symptoms often recur on a regular basis.
+The precise incidence of thrombotic thrombocytopenic purpura is unknown. Researchers estimate that, depending on geographic location, the condition affects 1.7 to 11 per million people each year in the United States. For unknown reasons, the disorder occurs more frequently in women than in men. The acquired form of thrombotic thrombocytopenic purpura is much more common than the familial form.
+Mutations in the ADAMTS13 gene cause the familial form of thrombotic thrombocytopenic purpura. The ADAMTS13 gene provides instructions for making an enzyme that is involved in the normal process of blood clotting. Mutations in this gene lead to a severe reduction in the activity of this enzyme. The acquired form of thrombotic thrombocytopenic purpura also results from a reduction in ADAMTS13 enzyme activity; however, people with the acquired form do not have mutations in the ADAMTS13 gene. Instead, their immune systems often produce specific proteins called autoantibodies that block the activity of the enzyme.  A lack of ADAMTS13 enzyme activity disrupts the usual balance between bleeding and clotting. Normally, blood clots form at the site of an injury to seal off damaged blood vessels and prevent excess blood loss. In people with thrombotic thrombocytopenic purpura, clots form throughout the body as platelets bind together abnormally and stick to the walls of blood vessels. These clots can block small blood vessels, causing organ damage and the other features of thrombotic thrombocytopenic purpura.  Researchers believe that other genetic or environmental factors may contribute to the signs and symptoms of thrombotic thrombocytopenic purpura. In people with reduced ADAMTS13 enzyme activity, factors such as pregnancy, surgery, and infection may trigger abnormal blood clotting and its associated complications.
+The familial form of thrombotic thrombocytopenic purpura is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  The acquired form of thrombotic thrombocytopenic purpura is not inherited.
+These resources address the diagnosis or management of thrombotic thrombocytopenic purpura:  - Genetic Testing Registry: Upshaw-Schulman syndrome  - MedlinePlus Encyclopedia: Blood Clots  - MedlinePlus Encyclopedia: Hemolytic anemia  - MedlinePlus Encyclopedia: Purpura  - MedlinePlus Encyclopedia: Thrombocytopenia  - MedlinePlus Encyclopedia: Thrombotic thrombocytopenic purpura   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

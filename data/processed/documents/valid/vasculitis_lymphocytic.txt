@@ -1,0 +1,46 @@
+Vasculitis is an inflammation of the blood vessels. It happens when the body's immune system attacks the blood vessel by mistake. It can happen because of an infection, a medicine, or another disease. The cause is often unknown.    Vasculitis can affect arteries, veins and capillaries. Arteries are vessels that carry blood from the heart to the body's organs. Veins are the vessels that carry blood back to the heart. Capillaries are tiny blood vessels that connect the small arteries and veins.     When a blood vessel becomes inflamed, it can       -  Narrow, making it more difficult for blood to get through     -  Close off completely so that blood can't get through     -  Stretch and weaken so much that it bulges. The bulge is called an aneurysm. If it bursts, it can cause dangerous bleeding inside the body.       Symptoms of vasculitis can vary, but usually include fever, swelling and a general sense of feeling ill. The main goal of treatment is to stop the inflammation. Steroids and other medicines to stop inflammation are often helpful.    NIH: National Heart, Lung, and Blood Institute
+Lymphocytic vasculitis is one of several skin conditions which are collectively referred to as cutaneous vasculitis. In lymphocytic vasculitis, white blood cells (lymphocytes) cause damage to blood vessels in the skin. This condition is thought to be caused by a number of factors, but the exact cause of most cases is not known. This disease can present with a variety of symptoms, depending on the size, location, and severity of the affected area. In a minority of patients, cutaneous vasculitis can be part of a more severe vasculitis affecting other organs in the body - this is known as systemic vasculitis.
+ Lymphocytic vasculitis can cause a number of different symptoms.  Hives, red or purplish discolored patches, a bump (nodule), or an open sore (ulcer) have all been described as symptoms of this condition.  The size, location, and severity of symptoms varies widely among affected individuals.  Additional symptoms may occur if the vasculitis also affects internal organs; this is known as systemic vasculitis.  The symptoms of systemic vasculitis depend on which organs are affected and to what degree. The Human Phenotype Ontology provides the following list of signs and symptoms for Lymphocytic vasculitis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of metabolism/homeostasis - Autosomal dominant inheritance - Nodular inflammatory vasculitis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+ Lymphocytic vasculitis is thought to be caused by a number of different factors, such as infection, trauma, drug reaction, or an underlying condition such as arthritis.  Because this condition is rare and not yet well understood, it is believed that a full list of possible causes has yet to be assembled.
+Hypersensitivity vasculitis is an extreme reaction to a drug, infection, or foreign substance that leads to inflammation and damage to blood vessels of the skin. Signs and symptoms may include purple-colored spots and patches on the skin; skin lesions on the legs, buttocks, or trunk; blisters on the skin; hives (urticaria); and/or open sores with dead tissue (necrotic ulcers). This condition is caused by an allergic reaction to a drug or other foreign substance. This condition usually goes away over time; but on occasion, people can have repeated episodes.
+ The Human Phenotype Ontology provides the following list of signs and symptoms for Hypersensitivity vasculitis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of temperature regulation 90% Cutis marmorata 90% Gangrene 90% Myalgia 90% Skin ulcer 90% Subcutaneous hemorrhage 90% Urticaria 90% Vasculitis 90% Arthralgia 50% Skin rash 50% Abnormality of the oral cavity 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+Vasculitis occurs if your immune system attacks your blood vessels by mistake. What causes this to happen isn't fully known.
+                
+A recent or chronic (ongoing) infection may prompt the attack. Your body also may attack its own blood vessels in reaction to a medicine.
+                
+Sometimes an autoimmune disorder triggers vasculitis. Autoimmune disorders occur if the immune system makes antibodies (proteins) that attack and damage the body's own tissues or cells. Examples of these disorders include lupus, rheumatoid arthritis, and scleroderma. You can have these disorders for years before developing vasculitis.
+                
+Vasculitis also may be linked to certain blood cancers, such as leukemia and lymphoma.
+Vasculitis can affect people of all ages and races and both sexes. Some types of vasculitis seem to occur more often in people who:
+                
+Have certain medical conditions, such as chronic hepatitis B or C infection
+                
+Have certain autoimmune diseases, such a lupus, rheumatoid arthritis, and scleroderma
+                
+Smoke
+                
+For more information, go to "Types of Vasculitis."
+Treatment for vasculitis will depend on the type of vasculitis you have, which organs are affected, and the severity of the condition.
+                
+People who have severe vasculitis are treated with prescription medicines. Rarely, surgery may be done. People who have mild vasculitis may find relief with over-the-counter pain medicines, such as acetaminophen, aspirin, ibuprofen, or naproxen.
+                
+The main goal of treating vasculitis is to reduce inflammation in the affected blood vessels. This usually is done by reducing or stopping the immune response that caused the inflammation.
+                
+Types of Treatment
+                
+Common prescription medicines used to treat vasculitis include corticosteroids and cytotoxic medicines.
+                
+Corticosteroids help reduce inflammation in your blood vessels. Examples of corticosteroids are prednisone, prednisolone, and methylprednisolone.
+                
+Doctors may prescribe cytotoxic medicines if vasculitis is severe or if corticosteroids don't work well. Cytotoxic medicines kill the cells that are causing the inflammation. Examples of these medicines are azathioprine, methotrexate, and cyclophosphamide.
+                
+Your doctor may prescribe both corticosteroids and cytotoxic medicines.
+                
+Other treatments may be used for certain types of vasculitis. For example, the standard treatment for Kawasaki disease is high-dose aspirin and immune globulin. Immune globulin is a medicine thats injected into a vein.
+                
+Certain types of vasculitis may require surgery to remove aneurysms that have formed as a result of the condition. (An aneurysm is an abnormal bulge in the wall of a blood vessel.)
+You can't prevent vasculitis. However, treatment can help prevent or delay the complications of vasculitis.
+                
+People who have severe vasculitis are treated with prescription medicines. Rarely, surgery may be done. People who have mild vasculitis may find relief with over-the-counter pain medicines, such as acetaminophen, aspirin, ibuprofen, or naproxen.
+                
+For more information about vasculitis treatments, go to "How Is Vasculitis Treated?"

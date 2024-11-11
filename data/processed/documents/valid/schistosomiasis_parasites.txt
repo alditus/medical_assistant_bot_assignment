@@ -1,0 +1,37 @@
+Schistosomiasis is a disease caused by parasitic worms. Although the worms that cause schistosomiasis are not found in the United States, more than 200 million people are infected worldwide. Infection occurs through contact with contaminated water. The parasite in its infective stages is called a cercaria. It swims freely in open bodies of water. On contact with humans, the parasite burrows into the skin, matures into another stage (schistosomula), then migrates to the lungs and liver, where it matures into the adult form. The adult worm then migrates to its preferred body part (bladder, rectum, intestines, liver, portal venous system (the veins that carry blood from the intestines to liver, spleen, lungs), depending on its species.  Schistosomiasis is common in many tropical and subtropical areas worldwide. It can be treated safely and effectively with praziquantel.
+ The Human Phenotype Ontology provides the following list of signs and symptoms for Schistosomiasis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the immune system - Autosomal dominant inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+ Examination of stool and/or urine for ova is the primary method of diagnosis for schistosomiasis. The choice of sample depends on the suspected species, which may be determined by careful review of travel and residence history. The sensitivity of this testing can be limited by the intensity of infection. For best results, three samples should be collected on different days.  A blood sample can also be tested for evidence of infection. Blood tests are indicated for travelers or immigrants from endemic areas who have not been treated (or not treated appropriately) in the past. The most common tests detect antibodies to the adult worm. For accurate results, the blood sample tested should be collected at least 6 to 8 weeks after likely infection. Blood testing may not be appropriate for patients who have been repeatedly infected and treated in the past because antibodies can persist despite cure. In these patients, blood testing cannot distinguish between a past or current infection. A specific blood test has been developed for this population (which can detect an active infection based on the presence of  schistosomal antigen), but this test is not commercially available in the United States and is currently being studied for its ability to detect mild infections.
+Schistosomiasis, also known as bilharzia, is a disease caused by parasitic worms. Infection with Schistosoma mansoni, S. haematobium, and S. japonicum causes illness in humans; less commonly, S. mekongi and S. intercalatum can cause disease. Although the worms that cause schistosomiasis are not found in the United States, more than 200 million people are infected worldwide.
+Schistosomiasis is an important cause of disease in many parts of the world, most commonly in places with poor sanitation. School-age children who live in these areas are often most at risk because they tend to spend time swimming or bathing in water containing infectious cercariae.
+If you live in, or travel to, areas where schistosomiasis is found and are exposed to contaminated freshwater, you are at risk.
+   
+Areas where human schistosomiasis is found include:
+   
+    - Schistosoma mansoni 
+     
+      - distributed throughout Africa: There is risk of infection in freshwater in southern and sub-Saharan Africa–including the great lakes and rivers as well as smaller bodies of water. Transmission also occurs in the Nile River valley in Sudan and Egypt
+      - South America: including Brazil, Suriname, Venezuela
+      - Caribbean (risk is low): Dominican Republic, Guadeloupe, Martinique, and Saint Lucia.
+     
+    - S. haematobium 
+     
+      - distributed throughout Africa: There is risk of infection in freshwater in southern and sub-Saharan Africa–including the great lakes and rivers as well as smaller bodies of water. Transmission also occurs in the Nile River valley in Egypt and the Mahgreb region of North Africa.
+      - found in areas of the Middle East
+     
+    - S. japonicum 
+     
+      - found in Indonesia and parts of China and Southeast Asia
+     
+    - S. mekongi 
+     
+      - found in Cambodia and Laos
+     
+    - S. intercalatum 
+     
+      - found in parts of Central and West Africa.
+Stool or urine samples can be examined microscopically for parasite eggs (stool for S. mansoni or S. japonicum eggs and urine for S. haematobium eggs). The eggs tend to be passed intermittently and in small amounts and may not be detected, so it may be necessary to perform a blood (serologic) test.
+    
+More on: Resources for Health Professionals: Diagnosis
+Safe and effective medication is available for treatment of both urinary and intestinal schistosomiasis. Praziquantel, a prescription medication, is taken for 1-2 days to treat infections caused by all Schistosoma species.
+    
+More on: Resources for Health Professionals: Treatment

@@ -24,7 +24,7 @@ This project involves the development of a medical question-answering system, im
    - I ran the fine-tuning process for just 2-3 epochs due to time constrains and also I was coming back and forth to solve some issues.  
 4. **Evaluation**:
    - Evaluated using the SQuAD metric, a standard for extractive QA tasks.
-   - Results: The model achieved ~70% F1 score and ~40% exact match, providing a solid baseline for further improvements.
+   - Results: The model achieved ~70% F1 score and ~40% exact match, providing an initial baseline for further improvements.
 5. **Limitations**:
    - **Runtime Dependency**: This approach requires a context at runtime, which could either be retrieved from a database or provided by the user.
 
@@ -42,15 +42,16 @@ This project involves the development of a medical question-answering system, im
 All experiments were run locally using available resources and following guidelines in the Hugging Face documentation.
 
 ## Example Interactions
+Just for demonstrations, it is clear that improvements have to be made for both alternatives.  
 - **BERT model**
 ![BERT model Interactions](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/results/result_1_bert_qa.png)
 - **RAG system**
 ![RAG system Interactions](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/results/result_2_rag_qa.png)
 
 ## Assumptions and Decisions
-- **Data Assumptions**: The provided dataset answers were assumed to be correct, though some required interpretation to fit the extractive QA approach.
-- **Dataset Adaptation**: As the dataset lacked contextual positioning, answers were repurposed as context, though this may not align perfectly with extractive QA requirements.
-- **Embedding Choice**: Selected a medical embedding model (`abhinand/MedEmbed-small-v0.1`) for better alignment with the medical domain, improving retrieval relevance.
+- **Data Assumptions**: The provided dataset answers were assumed to be correct, though some required interpretation to fit the extractive QA approach. Random check showed that the dataset had to much noise. Further analysis should be done but for now I did what I could. 
+- **Dataset Adaptation**: As the dataset lacked contextual positioning, answers were repurposed as context, though this may not align perfectly with extractive QA requirements because we relied on another model and it is not flawless.
+- **Embedding Choice**: Selected a medical embedding model (`abhinand/MedEmbed-small-v0.1`) for better alignment with the medical domain, assuming this would improve retrieval relevance.
 
 ## Model Performance
 ### Extractive Question Answering

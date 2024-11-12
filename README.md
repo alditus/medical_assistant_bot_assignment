@@ -43,7 +43,7 @@ All experiments were run locally using available resources and following guideli
 
 ## Example Interactions
 - **BERT model**
-![BERT model Interactions]([http://url/to/img.png](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/results/result_1_bert_qa.png))
+![BERT model Interactions](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/results/result_1_bert_qa.png)
 - **RAG system**
 ![RAG system Interactions](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/results/result_2_rag_qa.png)
 

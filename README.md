@@ -54,7 +54,7 @@ All experiments were run locally using available resources and following guideli
 
 ## Model Performance
 ### Extractive Question Answering
-- **Strengths**: Established an initial extractive QA environment with reasonable performance (F1: 70%, EM: 40%) as a baseline.
+- **Strengths**: Established an initial extractive QA environment with reasonable performance (F1: 70%, ExactMatch: 40%) as a baseline. Only trained for 3 epochs.
 - **Weaknesses**: Dependent on context availability at runtime, which may require an additional retrieval system.
 
 ### RAG Question Answering
@@ -70,3 +70,6 @@ All experiments were run locally using available resources and following guideli
    - Experimenting with other pre-trained models and embeddings to further optimize performance for the medical QA task.
 4. **Comprehensive RAG Evaluation**:
    - Utilize the RAGAs framework to assess retrieval and generation components separately for targeted improvements.
+5. **Try other architectures for model fine tuning and embedding experimentation for RAG**:
+   - Experiment with other models and architectures, exploring retrieval algorithms, embedding that might be better for the task
+

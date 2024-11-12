@@ -1,16 +1,19 @@
 # requirements for the project
+awscli
+boto3
+datasets
+evaluate
 ipykernel
 jupyterlab
-matplotlib
+python-dotenv
+langchain
+matplotlibclear
 numpy
-matplotlib
-pandas
 nltk
-wordcloud
+pandas
 scikit-learn
 transformers
-datasets
 torch
 torchvision
 torchaudio
-langchain
+wordcloud

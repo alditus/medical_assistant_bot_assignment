@@ -4,16 +4,16 @@ This project involves the development of a medical question-answering system, im
 ## Approach
 
 ### Data Preprocessing 
-1. **Initial Data Cleaning**:[EDA](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/data_exploration_eda/exploratory_data_analysis.ipynb)  
+1. **Initial Data Cleaning**: [EDA](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/data_exploration_eda/exploratory_data_analysis.ipynb), [preprocessing](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/data_processing/data_processing_and_preparation.ipynb) [Data Augmentation](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/data_processing/preparing_data_for_training.ipynb) 
    - Removed duplicate question-answer pairs.
    - Filtered out answers that were longer than the average or that didn’t fit the dataset distribution.
    - Removed question-answer pairs where the question was equal or very similar to the answer. For similarity score I used edit_distance
    - For a lot of examples, the question appeared at the beginning of the provided answer. I remove those questions from the answer.
-2. **Keyword Identification and Clustering**:[EDA](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/data_exploration_eda/exploratory_data_analysis.ipynb)  
+2. **Keyword Identification and Clustering**:
    - Extracted keywords from the dataset to perform topic clustering using KMeans and Agglomerative Clustering.
    - The clustering process helped group related questions by topic, allowing for topic-based separation of question-answer pairs.
 
-### Model 1: Extractive Question Answering
+### Model 1: Extractive Question Answering [eqa_notebook](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/training_experiments/train_extractive_question_answering_bert.ipynb)
 1. **Challenges and Setup**:
    - Extractive QA requires context and the position of the answer within the context, which was not provided in the dataset.
    - Solution: Treated the original answers as context and used OpenAI's assistant to verify if the answer was contained within the context. Non-matching cases were marked as "no-answer."
@@ -28,7 +28,7 @@ This project involves the development of a medical question-answering system, im
 5. **Limitations**:
    - **Runtime Dependency**: This approach requires a context at runtime, which could either be retrieved from a database or provided by the user.
 
-### Model 2: Retrieval-Augmented Generation (RAG) Question Answering
+### Model 2: Retrieval-Augmented Generation (RAG) Question Answering [RAG notebook ](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/training_experiments/rag_qa_system.ipynb)
 1. **Document Creation and System Setup**:
    - Each cluster identified during preprocessing was treated as a separate document in the knowledge base for retrieval.
 2. **System Components**:
@@ -43,8 +43,9 @@ All experiments were run locally using available resources and following guideli
 
 ## Example Interactions
 - **BERT model**
+![BERT model Interactions]([http://url/to/img.png](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/results/result_1_bert_qa.png))
 - **RAG system**
-
+![RAG system Interactions](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/results/result_2_rag_qa.png)
 
 ## Assumptions and Decisions
 - **Data Assumptions**: The provided dataset answers were assumed to be correct, though some required interpretation to fit the extractive QA approach.
@@ -58,7 +59,7 @@ All experiments were run locally using available resources and following guideli
 
 ### RAG Question Answering
 - **Strengths**: Effective integration of a medical embedding model with FAISS and an LLM for answer generation.
-- **Limitations**: Lack of retrieval and generation evaluations due to time constraints.
+- **Limitations**: Lack of retrieval and generation evaluations due to time constraints. No experimentation with hiperparameters tuning for retrieval.
 
 ## Potential Improvements
 1. **Enhanced Dataset Review**:

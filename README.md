@@ -3,13 +3,13 @@ This project involves the development of a medical question-answering system, im
 
 ## Approach
 
-### Data Preprocessing
-1. **Initial Data Cleaning**:
+### Data Preprocessing 
+1. **Initial Data Cleaning**:[EDA](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/data_exploration_eda/exploratory_data_analysis.ipynb)  
    - Removed duplicate question-answer pairs.
    - Filtered out answers that were longer than the average or that didn’t fit the dataset distribution.
    - Removed question-answer pairs where the question was equal or very similar to the answer. For similarity score I used edit_distance
    - For a lot of examples, the question appeared at the beginning of the provided answer. I remove those questions from the answer.
-2. **Keyword Identification and Clustering**:
+2. **Keyword Identification and Clustering**:[EDA](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/data_exploration_eda/exploratory_data_analysis.ipynb)  
    - Extracted keywords from the dataset to perform topic clustering using KMeans and Agglomerative Clustering.
    - The clustering process helped group related questions by topic, allowing for topic-based separation of question-answer pairs.
 

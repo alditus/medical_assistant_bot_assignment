@@ -1,5 +1,5 @@
 # Medical Question Answering System
-This project involves the development of a medical question-answering system, implemented using two main approaches: Extractive Question Answering (QA) and Retrieval-Augmented Generation (RAG). The system is designed to answer user queries about medical conditions based on a given dataset of medical information.
+This project involves the development of a medical question-answering system, implemented using two main approaches: Extractive Question Answering (QA) and Retrieval-Augmented Generation (RAG). The system is designed to answer user queries about medical conditions based on a given dataset of medical information.  Is far from being perfect and it needs further revision.
 
 ## Approach
 

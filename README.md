@@ -1,10 +1,10 @@
 # Medical Question Answering System
-This project involves the development of a medical question-answering system, implemented using two main approaches: Extractive Question Answering (QA) and Retrieval-Augmented Generation (RAG). The system is designed to answer user queries about medical conditions based on a given dataset of medical information.
+This project involves the development of a medical question-answering system, implemented using two main approaches: Extractive Question Answering (QA) and Retrieval-Augmented Generation (RAG). The system is designed to answer user queries about medical conditions based on a given dataset of medical information.  Is far from being perfect and it needs further revision.
 
 ## Approach
 
-### Data Preprocessing
-1. **Initial Data Cleaning**:
+### Data Preprocessing 
+1. **Initial Data Cleaning**: [EDA](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/data_exploration_eda/exploratory_data_analysis.ipynb), [preprocessing](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/data_processing/data_processing_and_preparation.ipynb) [Data Augmentation](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/data_processing/preparing_data_for_training.ipynb) 
    - Removed duplicate question-answer pairs.
    - Filtered out answers that were longer than the average or that didn’t fit the dataset distribution.
    - Removed question-answer pairs where the question was equal or very similar to the answer. For similarity score I used edit_distance
@@ -13,7 +13,7 @@ This project involves the development of a medical question-answering system, im
    - Extracted keywords from the dataset to perform topic clustering using KMeans and Agglomerative Clustering.
    - The clustering process helped group related questions by topic, allowing for topic-based separation of question-answer pairs.
 
-### Model 1: Extractive Question Answering
+### Model 1: Extractive Question Answering [eqa_notebook](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/training_experiments/train_extractive_question_answering_bert.ipynb)
 1. **Challenges and Setup**:
    - Extractive QA requires context and the position of the answer within the context, which was not provided in the dataset.
    - Solution: Treated the original answers as context and used OpenAI's assistant to verify if the answer was contained within the context. Non-matching cases were marked as "no-answer."
@@ -24,11 +24,11 @@ This project involves the development of a medical question-answering system, im
    - I ran the fine-tuning process for just 2-3 epochs due to time constrains and also I was coming back and forth to solve some issues.  
 4. **Evaluation**:
    - Evaluated using the SQuAD metric, a standard for extractive QA tasks.
-   - Results: The model achieved ~70% F1 score and ~40% exact match, providing a solid baseline for further improvements.
+   - Results: The model achieved ~70% F1 score and ~40% exact match, providing an initial baseline for further improvements.
 5. **Limitations**:
    - **Runtime Dependency**: This approach requires a context at runtime, which could either be retrieved from a database or provided by the user.
 
-### Model 2: Retrieval-Augmented Generation (RAG) Question Answering
+### Model 2: Retrieval-Augmented Generation (RAG) Question Answering [RAG notebook ](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/notebooks/training_experiments/rag_qa_system.ipynb)
 1. **Document Creation and System Setup**:
    - Each cluster identified during preprocessing was treated as a separate document in the knowledge base for retrieval.
 2. **System Components**:
@@ -42,23 +42,25 @@ This project involves the development of a medical question-answering system, im
 All experiments were run locally using available resources and following guidelines in the Hugging Face documentation.
 
 ## Example Interactions
+Just for demonstrations, it is clear that improvements have to be made for both alternatives.  
 - **BERT model**
+![BERT model Interactions](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/results/result_1_bert_qa.png)
 - **RAG system**
-
+![RAG system Interactions](https://github.com/alditus/medical_assistant_bot_assignment/blob/main/results/result_2_rag_qa.png)
 
 ## Assumptions and Decisions
-- **Data Assumptions**: The provided dataset answers were assumed to be correct, though some required interpretation to fit the extractive QA approach.
-- **Dataset Adaptation**: As the dataset lacked contextual positioning, answers were repurposed as context, though this may not align perfectly with extractive QA requirements.
-- **Embedding Choice**: Selected a medical embedding model (`abhinand/MedEmbed-small-v0.1`) for better alignment with the medical domain, improving retrieval relevance.
+- **Data Assumptions**: The provided dataset answers were assumed to be correct, though some required interpretation to fit the extractive QA approach. Random check showed that the dataset had to much noise. Further analysis should be done but for now I did what I could. 
+- **Dataset Adaptation**: As the dataset lacked contextual positioning, answers were repurposed as context, though this may not align perfectly with extractive QA requirements because we relied on another model and it is not flawless.
+- **Embedding Choice**: Selected a medical embedding model (`abhinand/MedEmbed-small-v0.1`) for better alignment with the medical domain, assuming this would improve retrieval relevance.
 
 ## Model Performance
 ### Extractive Question Answering
-- **Strengths**: Established an initial extractive QA environment with reasonable performance (F1: 70%, EM: 40%) as a baseline.
+- **Strengths**: Established an initial extractive QA environment with reasonable performance (F1: 70%, ExactMatch: 40%) as a baseline. Only trained for 3 epochs.
 - **Weaknesses**: Dependent on context availability at runtime, which may require an additional retrieval system.
 
 ### RAG Question Answering
 - **Strengths**: Effective integration of a medical embedding model with FAISS and an LLM for answer generation.
-- **Limitations**: Lack of retrieval and generation evaluations due to time constraints.
+- **Limitations**: Lack of retrieval and generation evaluations due to time constraints. No experimentation with hiperparameters tuning for retrieval.
 
 ## Potential Improvements
 1. **Enhanced Dataset Review**:
@@ -69,3 +71,6 @@ All experiments were run locally using available resources and following guideli
    - Experimenting with other pre-trained models and embeddings to further optimize performance for the medical QA task.
 4. **Comprehensive RAG Evaluation**:
    - Utilize the RAGAs framework to assess retrieval and generation components separately for targeted improvements.
+5. **Try other architectures for model fine tuning and embedding experimentation for RAG**:
+   - Experiment with other models and architectures, exploring retrieval algorithms, embedding that might be better for the task
+
